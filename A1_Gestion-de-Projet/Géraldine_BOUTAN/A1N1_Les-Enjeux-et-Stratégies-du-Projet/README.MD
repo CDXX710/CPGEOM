@@ -33,9 +33,9 @@
 
 > **MOA:** *Maîtrise d'ouvrage* -> *Entité représentant le besoin client.*
 >
-> **AMOA:** *Assistant à maîtrise d'ouvrage* -> *Entité mandaté par la MOA pour superviser la réalisation technique.*
+> **AMOA:** *Assistant à maîtrise d'ouvrage* -> *Entité éventuellement mandaté par lle client pour superviser la réalisation technique.*
 >
-> **MOE:** *Maîtrise d'œuvre* -> *Entité mandaté par la MOA pour réaliser la partie technique.*
+> **MOE:** *Maîtrise d'œuvre* -> *Entité en charge de la partie technique.*
 ### SCHÉMA DIRECTEUR
 
 
