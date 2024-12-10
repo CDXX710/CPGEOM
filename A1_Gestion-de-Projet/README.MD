@@ -1,3 +1,3 @@
-1. [Géraldine BOUTAN](Géraldine_BOUTAN/README.MD)
+[↳ Géraldine BOUTAN](Géraldine_BOUTAN/README.MD)
 ---
 ### [↺ Retour](../README.MD)
