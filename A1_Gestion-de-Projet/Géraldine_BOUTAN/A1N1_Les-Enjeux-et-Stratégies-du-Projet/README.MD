@@ -31,11 +31,11 @@
 > 
 > 8. Les pouvoirs publics
 
-> **MOA:** *Maîtrise d'ouvrage*
+> **MOA:** *Maîtrise d'ouvrage* Entité représentant le besoin côté client.
 >
-> **MOE:** *Maîtrise d'œuvre* 
+> **MOE:** *Maîtrise d'œuvre* Entité réalisatrice.
 >
-> **AMOA:** *Assistant à maîtrise d'ouvrage*
+> **AMOA:** *Assistant à maîtrise d'ouvrage* Entité mandaté par le client.
 
 ### SCHÉMA DIRECTEUR
 
