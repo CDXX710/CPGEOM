@@ -7,11 +7,11 @@
 
 #### [➤ Introduction](README.MD#introduction)
 #### [➤ Organisation](README.MD#organisation)
-#### [➤ Introduction](README.MD#introduction)
+#### [➤ Solutions de Collecte et Analyse](README.MD#solutions-de-collecte-et-analyse)
 #### [➤ Valorisation](README.MD#valorisation)
-#### [➤ Introduction](README.MD#introduction)
-#### [➤ Introduction](README.MD#introduction)
-#### [➤ Introduction](README.MD#introduction)
+#### [➤ Les Grandes Etapes](README.MD##les-grandes-etapes)
+#### [➤ Les Indispensables](README.MD#les-indispensables)
+
 
 ---
 # INTRODUCTION
