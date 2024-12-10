@@ -31,6 +31,9 @@
 > 
 > 8. Les pouvoirs publics
 
+> **MOA:** *Maîtrise d'ouvrage*
+> **MOE:** *Maîtrise d'œuvre* 
+> **AMOA:** *Assistant à maîtrise d'ouvrage*
 ### SCHÉMA DIRECTEUR
 
 
