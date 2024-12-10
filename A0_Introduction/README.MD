@@ -1,1 +1,1 @@
-1. [Jean POMMIER](A0_Introduction/Jean_POMMIER/README.MD)
+1. [Jean POMMIER](Jean_POMMIER/README.MD)
