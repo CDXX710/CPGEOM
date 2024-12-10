@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OGRVRTDataSource>
+<OGRVRTUnionLayer name="jpommier_balances-des-comptes-de-letat">
+  <SourceLayerFieldName>annee</SourceLayerFieldName>
+  <OGRVRTLayer name="2022">
+    <SrcDataSource relativeToVRT="1">/vsigzip/2012-2022-balances-des-comptes-de-letat.csv.gz</SrcDataSource>
+    <SrcSql dialect="sqlite">SELECT *, 
+        CAST(REPLACE(REPLACE("Balance Sortie 2022", " ", ""), ",", ".") as decimal) 
+          AS balance_sortie
+        FROM '2012-2022-balances-des-comptes-de-letat' 
+        WHERE trim("Balance Sortie 2022") != '-'
+    </SrcSql>
+    <!-- <SrcLayer>2012-2022-balances-des-comptes-de-letat</SrcLayer> -->
+    <Field name="postes" src="Postes" type="String" />
+    <Field name="sous_postes" src="Sous-postes" type="String" />
+    <Field name="indicateurs_de_synthese" src="Indicateurs de synthèse" type="String" />
+    <Field name="indicateurs_de_detail" src="Indicateurs de détail" type="String" />
+    <Field name="compte" src="Compte" type="String" />
+    <Field name="nature_budgetaire" src="Nature Budgétaire" type="String" />
+    <Field name="programme" src="Programme" type="String" />
+    <Field name="libelle_ministere" src="Libellé Ministère" type="String" />
+    <Field name="balance_sortie" src="balance_sortie" type="Real" />
+  </OGRVRTLayer>
+  <OGRVRTLayer name="2021">
+    <SrcDataSource relativeToVRT="1">/vsigzip/2012-2022-balances-des-comptes-de-letat.csv.gz</SrcDataSource>
+    <SrcSql dialect="sqlite">SELECT *, 
+        CAST(REPLACE(REPLACE("Balance Sortie 2021", " ", ""), ",", ".") as decimal) 
+          AS balance_sortie
+        FROM '2012-2022-balances-des-comptes-de-letat' 
+        WHERE trim("Balance Sortie 2021") != '-'
+    </SrcSql>
+    <!-- <SrcLayer>2012-2022-balances-des-comptes-de-letat</SrcLayer> -->
+    <Field name="postes" src="Postes" type="String" />
+    <Field name="sous_postes" src="Sous-postes" type="String" />
+    <Field name="indicateurs_de_synthese" src="Indicateurs de synthèse" type="String" />
+    <Field name="indicateurs_de_detail" src="Indicateurs de détail" type="String" />
+    <Field name="compte" src="Compte" type="String" />
+    <Field name="nature_budgetaire" src="Nature Budgétaire" type="String" />
+    <Field name="programme" src="Programme" type="String" />
+    <Field name="libelle_ministere" src="Libellé Ministère" type="String" />
+    <Field name="balance_sortie" src="balance_sortie" type="Real" />
+  </OGRVRTLayer>
+  <OGRVRTLayer name="2020">
+    <SrcDataSource relativeToVRT="1">/vsigzip/2012-2022-balances-des-comptes-de-letat.csv.gz</SrcDataSource>
+    <SrcSql dialect="sqlite">SELECT *, 
+        CAST(REPLACE(REPLACE("Balance Sortie 2020", " ", ""), ",", ".") as decimal) 
+          AS balance_sortie
+        FROM '2012-2022-balances-des-comptes-de-letat' 
+        WHERE trim("Balance Sortie 2020") != '-'
+    </SrcSql>
+    <!-- <SrcLayer>2012-2022-balances-des-comptes-de-letat</SrcLayer> -->
+    <Field name="postes" src="Postes" type="String" />
+    <Field name="sous_postes" src="Sous-postes" type="String" />
+    <Field name="indicateurs_de_synthese" src="Indicateurs de synthèse" type="String" />
+    <Field name="indicateurs_de_detail" src="Indicateurs de détail" type="String" />
+    <Field name="compte" src="Compte" type="String" />
+    <Field name="nature_budgetaire" src="Nature Budgétaire" type="String" />
+    <Field name="programme" src="Programme" type="String" />
+    <Field name="libelle_ministere" src="Libellé Ministère" type="String" />
+    <Field name="balance_sortie" src="balance_sortie" type="Real" />
+  </OGRVRTLayer>
+  <OGRVRTLayer name="2019">
+    <SrcDataSource relativeToVRT="1">/vsigzip/2012-2022-balances-des-comptes-de-letat.csv.gz</SrcDataSource>
+    <SrcSql dialect="sqlite">SELECT *, 
+        CAST(REPLACE(REPLACE("Balance Sortie 2019", " ", ""), ",", ".") as decimal) 
+          AS balance_sortie
+        FROM '2012-2022-balances-des-comptes-de-letat' 
+        WHERE trim("Balance Sortie 2019") != '-'
+    </SrcSql>
+    <!-- <SrcLayer>2012-2022-balances-des-comptes-de-letat</SrcLayer> -->
+    <Field name="postes" src="Postes" type="String" />
+    <Field name="sous_postes" src="Sous-postes" type="String" />
+    <Field name="indicateurs_de_synthese" src="Indicateurs de synthèse" type="String" />
+    <Field name="indicateurs_de_detail" src="Indicateurs de détail" type="String" />
+    <Field name="compte" src="Compte" type="String" />
+    <Field name="nature_budgetaire" src="Nature Budgétaire" type="String" />
+    <Field name="programme" src="Programme" type="String" />
+    <Field name="libelle_ministere" src="Libellé Ministère" type="String" />
+    <Field name="balance_sortie" src="balance_sortie" type="Real" />
+  </OGRVRTLayer>
+</OGRVRTUnionLayer>
+</OGRVRTDataSource>

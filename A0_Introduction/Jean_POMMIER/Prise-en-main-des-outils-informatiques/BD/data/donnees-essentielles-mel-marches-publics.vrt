@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OGRVRTDataSource>
+  <OGRVRTLayer name="jpommier_mel-marches-publics">
+    <SrcDataSource relativeToVRT="1">donnees-essentielles-mel-marches-publics.xlsx</SrcDataSource>
+    <!--<SrcSql dialect="sqlite">SELECT * FROM 'Feuil1'</SrcSql>-->
+    <SrcLayer>Feuil1</SrcLayer>
+    <Field name="id" src="ID" type="String" />
+    <Field name="acheteur" src="Acheteur" type="String" />
+    <Field name="technique_d'achat" src="Technique d'achat" type="String" />
+    <Field name="type_de_contrat" src="Type de Contrat" type="String" />
+    <Field name="objet_du_marche" src="Objet du marché" type="String" />
+    <Field name="code_cpv" src="Code CPV" type="String" />
+    <Field name="procedure" src="Procédure" type="String" />
+    <Field name="lieu_d'execution" src="Lieu d'exécution" type="String" />
+    <Field name="duree_du_marche" src="Durée du marché" type="Integer" />
+    <Field name="date_de_notification" src="Date de notification" type="String" />
+    <Field name="date_de_publication_des_donnees" src="Date de publication des données" type="String" />
+    <Field name="montant_du_marche" src="Montant du marché" type="Real" />
+    <Field name="forme_des_prix" src="Forme des prix" type="String" />
+    <Field name="titulaires" src="Titulaires" type="String" />
+    <Field name="uuid" src="uuid" type="String" />
+    <Field name="modifications" src="modifications" type="String" />
+    <Field name="type_d'identifiant_du_titulaire" src="Type d'identifiant du titulaire" type="String" />
+    <Field name="denomination_sociale_du_titulaire" src="Dénomination sociale du titulaire" type="String" />
+    <Field name="identifiant_du_titulaire" src="Identifiant du titulaire" type="String" />
+  </OGRVRTLayer>
+</OGRVRTDataSource>

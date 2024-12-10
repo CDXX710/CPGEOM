@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OGRVRTDataSource>
+<OGRVRTUnionLayer name="jpommier_menus_cantine">
+  <OGRVRTLayer name="entree1">
+    <SrcDataSource relativeToVRT="1">menu-cantine.xlsx</SrcDataSource>
+    <SrcSql dialect="sqlite">SELECT "date", "période", "Ouverture", "Thème", 
+        'entrée' AS categorie,
+        REPLACE("Entrée 1",X'0A', '') AS plat,
+        RTRIM(printf('%s,%s,%s,%s', "Entrée 1 Marqueur 1" , "Entrée 1 Marqueur 2", "Entrée 1 Marqueur 3", "Entrée 1 Marqueur 4")
+              , ',') AS marqueurs
+      FROM 'Feuil1' WHERE trim("Entrée 1") != '' AND trim("Entrée 1") != '0'</SrcSql>
+    <!-- <SrcLayer>Feuil1</SrcLayer> -->
+    <Field name="date" src="date" type="String" />
+    <Field name="periode" src="période" type="String" />
+    <Field name="ouverture" src="Ouverture" type="String" />
+    <Field name="theme" src="Thème" type="String" />
+    <Field name="categorie" src="categorie" type="String" />
+    <Field name="plat" src="plat" type="String" />
+    <Field name="marqueurs" src="marqueurs" type="String" />
+  </OGRVRTLayer>
+  <OGRVRTLayer name="entree2">
+    <SrcDataSource relativeToVRT="1">menu-cantine.xlsx</SrcDataSource>
+    <SrcSql dialect="sqlite">SELECT "date", "période", "Ouverture", "Thème", 
+        'entrée' AS categorie,
+        REPLACE("Entrée 2",X'0A', '') AS plat,
+        RTRIM(printf('%s,%s,%s,%s', "Entrée 2 Marqueur 1" , "Entrée 2 Marqueur 2", "Entrée 2 Marqueur 3", "Entrée 2 Marqueur 4")
+              , ',') AS marqueurs
+      FROM 'Feuil1' WHERE trim("Entrée 2") != '' AND trim("Entrée 2") != '0'</SrcSql>
+    <!-- <SrcLayer>Feuil1</SrcLayer> -->
+    <Field name="date" src="date" type="String" />
+    <Field name="periode" src="période" type="String" />
+    <Field name="ouverture" src="Ouverture" type="String" />
+    <Field name="theme" src="Thème" type="String" />
+    <Field name="categorie" src="categorie" type="String" />
+    <Field name="plat" src="plat" type="String" />
+    <Field name="marqueurs" src="marqueurs" type="String" />
+  </OGRVRTLayer>
+  <OGRVRTLayer name="plat1">
+    <SrcDataSource relativeToVRT="1">menu-cantine.xlsx</SrcDataSource>
+    <SrcSql dialect="sqlite">SELECT "date", "période", "Ouverture", "Thème", 
+        'plat' AS categorie,
+        REPLACE("Plat 1",X'0A', '') AS plat,
+        RTRIM(printf('%s,%s,%s,%s', "Plat 1 Marqueur 1" , "Plat 1 Marqueur 2", "Plat 1 Marqueur 3", "Plat 1 Marqueur 4")
+              , ',') AS marqueurs
+      FROM 'Feuil1' WHERE trim("Plat 1") != '' AND trim("Plat 1") != '0'</SrcSql>
+    <!-- <SrcLayer>Feuil1</SrcLayer> -->
+    <Field name="date" src="date" type="String" />
+    <Field name="periode" src="période" type="String" />
+    <Field name="ouverture" src="Ouverture" type="String" />
+    <Field name="theme" src="Thème" type="String" />
+    <Field name="categorie" src="categorie" type="String" />
+    <Field name="plat" src="plat" type="String" />
+    <Field name="marqueurs" src="marqueurs" type="String" />
+  </OGRVRTLayer>
+  <OGRVRTLayer name="plat2">
+    <SrcDataSource relativeToVRT="1">menu-cantine.xlsx</SrcDataSource>
+    <SrcSql dialect="sqlite">SELECT "date", "période", "Ouverture", "Thème", 
+        'plat' AS categorie,
+        REPLACE("Plat 2",X'0A', '') AS plat,
+        RTRIM(printf('%s,%s,%s,%s', "Plat 2 Marqueur 1" , "Plat 2 Marqueur 2", "Plat 2 Marqueur 3", "Plat 2 Marqueur 4")
+              , ',') AS marqueurs
+      FROM 'Feuil1' WHERE trim("Plat 2") != '' AND trim("Plat 2") != '0'</SrcSql>
+    <!-- <SrcLayer>Feuil1</SrcLayer> -->
+    <Field name="date" src="date" type="String" />
+    <Field name="periode" src="période" type="String" />
+    <Field name="ouverture" src="Ouverture" type="String" />
+    <Field name="theme" src="Thème" type="String" />
+    <Field name="categorie" src="categorie" type="String" />
+    <Field name="plat" src="plat" type="String" />
+    <Field name="marqueurs" src="marqueurs" type="String" />
+  </OGRVRTLayer>
+  <OGRVRTLayer name="accompagnement">
+    <SrcDataSource relativeToVRT="1">menu-cantine.xlsx</SrcDataSource>
+    <SrcSql dialect="sqlite">SELECT "date", "période", "Ouverture", "Thème", 
+        'accompagnement' AS categorie,
+        REPLACE("Accompagnement",X'0A', '') AS plat,
+        RTRIM(printf('%s,%s,%s,%s', "Accompagnement Marqueur 1" , "Accompagnement Marqueur 2", "Accompagnement Marqueur 3", "Accompagnement Marqueur 4")
+              , ',') AS marqueurs
+      FROM 'Feuil1' WHERE trim("Accompagnement") != '' AND trim("Accompagnement") != '0'</SrcSql>
+    <!-- <SrcLayer>Feuil1</SrcLayer> -->
+    <Field name="date" src="date" type="String" />
+    <Field name="periode" src="période" type="String" />
+    <Field name="ouverture" src="Ouverture" type="String" />
+    <Field name="theme" src="Thème" type="String" />
+    <Field name="categorie" src="categorie" type="String" />
+    <Field name="plat" src="plat" type="String" />
+    <Field name="marqueurs" src="marqueurs" type="String" />
+  </OGRVRTLayer>
+  <OGRVRTLayer name="laitage">
+    <SrcDataSource relativeToVRT="1">menu-cantine.xlsx</SrcDataSource>
+    <SrcSql dialect="sqlite">SELECT "date", "période", "Ouverture", "Thème", 
+        'fromage_laitage' AS categorie,
+        REPLACE("Fromages / Laitages 1",X'0A', '') AS plat,
+        RTRIM(printf('%s,%s,%s,%s', "Fromages / Laitages 1 Marqueur 1" , "Fromages / Laitages 1 Marqueur 2", "Fromages / Laitages 1 Marqueur 3", "Fromages / Laitages 1 Marqueur 4")
+              , ',') AS marqueurs
+      FROM 'Feuil1' WHERE trim("Fromages / Laitages 1") != '' AND trim("Fromages / Laitages 1") != '0'</SrcSql>
+    <!-- <SrcLayer>Feuil1</SrcLayer> -->
+    <Field name="date" src="date" type="String" />
+    <Field name="periode" src="période" type="String" />
+    <Field name="ouverture" src="Ouverture" type="String" />
+    <Field name="theme" src="Thème" type="String" />
+    <Field name="categorie" src="categorie" type="String" />
+    <Field name="plat" src="plat" type="String" />
+    <Field name="marqueurs" src="marqueurs" type="String" />
+  </OGRVRTLayer>
+  <OGRVRTLayer name="laitage2">
+    <SrcDataSource relativeToVRT="1">menu-cantine.xlsx</SrcDataSource>
+    <SrcSql dialect="sqlite">SELECT "date", "période", "Ouverture", "Thème", 
+        'fromage_laitage' AS categorie,
+        REPLACE("Fromages / Laitages 2",X'0A', '') AS plat,
+        RTRIM(printf('%s,%s,%s,%s', "Fromages / Laitages 2 Marqueur 1" , "Fromages / Laitages 2 Marqueur 2", "Fromages / Laitages 2 Marqueur 3", "Fromages / Laitages 2 Marqueur 4")
+              , ',') AS marqueurs
+      FROM 'Feuil1' WHERE trim("Fromages / Laitages 2") != '' AND trim("Fromages / Laitages 2") != '0'</SrcSql>
+    <!-- <SrcLayer>Feuil1</SrcLayer> -->
+    <Field name="date" src="date" type="String" />
+    <Field name="periode" src="période" type="String" />
+    <Field name="ouverture" src="Ouverture" type="String" />
+    <Field name="theme" src="Thème" type="String" />
+    <Field name="categorie" src="categorie" type="String" />
+    <Field name="plat" src="plat" type="String" />
+    <Field name="marqueurs" src="marqueurs" type="String" />
+  </OGRVRTLayer>
+  <OGRVRTLayer name="dessert1">
+    <SrcDataSource relativeToVRT="1">menu-cantine.xlsx</SrcDataSource>
+    <SrcSql dialect="sqlite">SELECT "date", "période", "Ouverture", "Thème", 
+        'dessert' AS categorie,
+        REPLACE("Desserts 1",X'0A', '') AS plat,
+        RTRIM(printf('%s,%s,%s,%s', "Desserts 1 Marqueur 1" , "Desserts 1 Marqueur 2", "Desserts 1 Marqueur 3", "Desserts 1 Marqueur 4")
+              , ',') AS marqueurs
+      FROM 'Feuil1' WHERE trim("Desserts 1") != '' AND trim("Desserts 1") != '0'</SrcSql>
+    <!-- <SrcLayer>Feuil1</SrcLayer> -->
+    <Field name="date" src="date" type="String" />
+    <Field name="periode" src="période" type="String" />
+    <Field name="ouverture" src="Ouverture" type="String" />
+    <Field name="theme" src="Thème" type="String" />
+    <Field name="categorie" src="categorie" type="String" />
+    <Field name="plat" src="plat" type="String" />
+    <Field name="marqueurs" src="marqueurs" type="String" />
+  </OGRVRTLayer>
+  <OGRVRTLayer name="dessert2">
+    <SrcDataSource relativeToVRT="1">menu-cantine.xlsx</SrcDataSource>
+    <SrcSql dialect="sqlite">SELECT "date", "période", "Ouverture", "Thème", 
+        'dessert' AS categorie,
+        REPLACE("Desserts 2",X'0A', '') AS plat,
+        RTRIM(printf('%s,%s,%s,%s', "Desserts 2 Marqueur 1" , "Desserts 2 Marqueur 2", "Desserts 2 Marqueur 3", "Desserts 2 Marqueur 4")
+              , ',') AS marqueurs
+      FROM 'Feuil1' WHERE trim("Desserts 2") != '' AND trim("Desserts 2") != '0'</SrcSql>
+    <!-- <SrcLayer>Feuil1</SrcLayer> -->
+    <Field name="date" src="date" type="String" />
+    <Field name="periode" src="période" type="String" />
+    <Field name="ouverture" src="Ouverture" type="String" />
+    <Field name="theme" src="Thème" type="String" />
+    <Field name="categorie" src="categorie" type="String" />
+    <Field name="plat" src="plat" type="String" />
+    <Field name="marqueurs" src="marqueurs" type="String" />
+  </OGRVRTLayer>
+  <OGRVRTLayer name="plat2_bis">
+    <SrcDataSource relativeToVRT="1">menu-cantine.xlsx</SrcDataSource>
+    <SrcSql dialect="sqlite">SELECT "date", "période", "Ouverture", "Thème", 
+        'plat' AS categorie,
+        REPLACE("plat_2_bis",X'0A', '') AS plat,
+        '' AS marqueurs
+      FROM 'Feuil1' WHERE trim("plat_2_bis") != '' AND trim("plat_2_bis") != '0'</SrcSql>
+    <!-- <SrcLayer>Feuil1</SrcLayer> -->
+    <Field name="date" src="date" type="String" />
+    <Field name="periode" src="période" type="String" />
+    <Field name="ouverture" src="Ouverture" type="String" />
+    <Field name="theme" src="Thème" type="String" />
+    <Field name="categorie" src="categorie" type="String" />
+    <Field name="plat" src="plat" type="String" />
+    <Field name="marqueurs" src="marqueurs" type="String" />
+  </OGRVRTLayer>
+    <!-- <Field name="entree_1_marqueur_1" src="Entrée 1 Marqueur 1" type="String" />
+    <Field name="fromages_/_laitages_2" src="Fromages / Laitages 2" type="String" />
+    <Field name="fromages_/_laitages_2_marqueur_1" src="Fromages / Laitages 2 Marqueur 1" type="String" />
+    <Field name="fromages_/_laitages_2_marqueur_2" src="Fromages / Laitages 2 Marqueur 2" type="String" />
+    <Field name="fromages_/_laitages_2_marqueur_3" src="Fromages / Laitages 2 Marqueur 3" type="String" />
+    <Field name="fromages_/_laitages_2_marqueur_4" src="Fromages / Laitages 2 Marqueur 4" type="String" />
+    <Field name="desserts_1" src="Desserts 1" type="String" />
+    <Field name="desserts_1_marqueur_1" src="Desserts 1 Marqueur 1" type="String" />
+    <Field name="desserts_1_marqueur_2" src="Desserts 1 Marqueur 2" type="String" />
+    <Field name="desserts_1_marqueur_3" src="Desserts 1 Marqueur 3" type="String" />
+    <Field name="desserts_1_marqueur_4" src="Desserts 1 Marqueur 4" type="String" />
+    <Field name="desserts_2" src="Desserts 2" type="String" />
+    <Field name="desserts_2_marqueur_1" src="Desserts 2 Marqueur 1" type="String" />
+    <Field name="desserts_2_marqueur_2" src="Desserts 2 Marqueur 2" type="String" />
+    <Field name="desserts_2_marqueur_3" src="Desserts 2 Marqueur 3" type="String" />
+    <Field name="desserts_2_marqueur_4" src="Desserts 2 Marqueur 4" type="String" />
+    <Field name="plat_2_bis" src="plat_2_bis" type="String" />
+    <Field name="acm_et_ferie" src="acm_et_ferie" type="String" />
+    <Field name="scolaire_et_ferie" src="scolaire_et_ferie" type="String" /> -->
+</OGRVRTUnionLayer>
+</OGRVRTDataSource>

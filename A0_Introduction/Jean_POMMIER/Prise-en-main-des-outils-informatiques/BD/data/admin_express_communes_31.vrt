@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OGRVRTDataSource>
+  <OGRVRTLayer name="jpommier_admin_express_communes_31">
+    <SrcDataSource relativeToVRT="1">/vsitar/admin_express_communes_31.tgz/admin_express_communes_31.shp</SrcDataSource>
+    <!--<SrcSql dialect="sqlite">SELECT * FROM 'admin_express_communes_31'</SrcSql>-->
+    <SrcLayer>admin_express_communes_31</SrcLayer>
+    <Field name="ID" src="ID" type="String" width="24"/>
+    <Field name="NOM" src="NOM" type="String" width="50"/>
+    <Field name="NOM_M" src="NOM_M" type="String" width="50"/>
+    <Field name="INSEE_COM" src="INSEE_COM" type="String" width="5"/>
+    <Field name="STATUT" src="STATUT" type="String" width="26"/>
+    <Field name="POPULATION" src="POPULATION" type="Integer" width="8"/>
+    <Field name="INSEE_CAN" src="INSEE_CAN" type="String" width="5"/>
+    <Field name="INSEE_ARR" src="INSEE_ARR" type="String" width="2"/>
+    <Field name="INSEE_DEP" src="INSEE_DEP" type="String" width="3"/>
+    <Field name="INSEE_REG" src="INSEE_REG" type="String" width="2"/>
+    <Field name="SIREN_EPCI" src="SIREN_EPCI" type="String" width="20"/>
+  </OGRVRTLayer>
+</OGRVRTDataSource>

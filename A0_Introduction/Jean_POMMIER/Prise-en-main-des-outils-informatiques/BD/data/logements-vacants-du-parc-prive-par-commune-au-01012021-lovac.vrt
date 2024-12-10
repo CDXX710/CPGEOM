@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OGRVRTDataSource>
+  <OGRVRTLayer name="jpommier_logements-vacants-du-parc-prive">
+    <SrcDataSource relativeToVRT="1">logements-vacants-du-parc-prive-par-commune-au-01012021-lovac.xlsx</SrcDataSource>
+    <SrcSql dialect="sqlite">SELECT * FROM 'Données' WHERE "CODE_DEPT" = '31'</SrcSql>
+    <!-- <SrcLayer>Données</SrcLayer> -->
+    <Field name="INSEE_COM" src="INSEE_COM" type="String" />
+    <Field name="NOM_COM" src="NOM_COM" type="String" />
+    <Field name="Nb_log_pp_2020" src="Nb_log_pp_2020" type="Integer" />
+    <Field name="Nb_logvac_pp_010119" src="Nb_logvac_pp_010119" type="Integer" />
+    <Field name="Nb_logvac_pp_C_010119" src="Nb_logvac_pp_C_010119" type="Integer" />
+    <Field name="Nb_logvac_2A_010119" src="Nb_logvac_2A_010119" type="Integer" />
+    <Field name="Prop_logvac_pp_010119" src="Prop_logvac_pp_010119" type="Real" />
+    <Field name="Prop_logvac_pp_C_010119" src="Prop_logvac_pp_C_010119" type="Real" />
+    <Field name="Prop_logvac_pp_2A_010119" src="Prop_logvac_pp_2A_010119" type="Real" />
+    <Field name="Nb_log_pp_2021" src="Nb_log_pp_2021" type="Integer" />
+    <Field name="Nb_logvac_pp_010120" src="Nb_logvac_pp_010120" type="Integer" />
+    <Field name="Nb_logvac_pp_C_010120" src="Nb_logvac_pp_C_010120" type="Integer" />
+    <Field name="Nb_logvac_2A_010120" src="Nb_logvac_2A_010120" type="Integer" />
+    <Field name="Prop_logvac_pp_010120" src="Prop_logvac_pp_010120" type="Real" />
+    <Field name="Prop_logvac_pp_C_010120" src="Prop_logvac_pp_C_010120" type="Real" />
+    <Field name="Prop_logvac_pp_2A_010120" src="Prop_logvac_pp_2A_010120" type="Real" />
+    <Field name="Nb_log_pp_2022" src="Nb_log_pp_2022" type="Integer" />
+    <Field name="Nb_logvac_pp_010121" src="Nb_logvac_pp_010121" type="Integer" />
+    <Field name="Nb_logvac_pp_C_010121" src="Nb_logvac_pp_C_010121" type="Integer" />
+    <Field name="Nb_logvac_2A_010121" src="Nb_logvac_2A_010121" type="Integer" />
+    <Field name="Prop_logvac_pp_010121" src="Prop_logvac_pp_010121" type="Real" />
+    <Field name="Prop_logvac_pp_C_010121" src="Prop_logvac_pp_C_010121" type="Real" />
+    <Field name="Prop_logvac_pp_2A_010121" src="Prop_logvac_pp_2A_010121" type="Real" />
+    <Field name="CODE_EPCI" src="CODE_EPCI" type="String" />
+    <Field name="NOM_EPCI" src="NOM_EPCI" type="String" />
+    <Field name="CODE_DEPT" src="CODE_DEPT" type="String" />
+    <Field name="NOM_DEPT" src="NOM_DEPT" type="String" />
+    <Field name="NOM_REGION" src="NOM_REGION" type="String" />
+  </OGRVRTLayer>
+  <OGRVRTLayer name="jpommier_logements-vacants-du-parc-prive--nomenclature">
+    <SrcDataSource relativeToVRT="1">logements-vacants-du-parc-prive-par-commune-au-01012021-lovac.xlsx</SrcDataSource>
+    <!--<SrcSql dialect="sqlite">SELECT * FROM 'Description des données'</SrcSql>-->
+    <SrcLayer>Description des données</SrcLayer>
+    <Field name="Field1" src="Field1" type="String" />
+    <Field name="Field2" src="Field2" type="String" />
+    <Field name="Field3" src="Field3" type="String" />
+    <Field name="Field4" src="Field4" type="String" />
+  </OGRVRTLayer>
+</OGRVRTDataSource>

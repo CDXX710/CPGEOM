@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OGRVRTDataSource>
+  <OGRVRTLayer name="jpommier_ouvrages-acquis-par-les-mediatheques">
+    <SrcDataSource relativeToVRT="1" shared="1">/vsigzip/ouvrages-acquis-par-les-mediatheques.csv.gz</SrcDataSource>
+    <!-- <SrcLayer>ouvrages-acquis-par-les-mediatheques</SrcLayer> -->
+    <SrcSQL>SELECT * FROM "ouvrages-acquis-par-les-mediatheques" LIMIT 500</SrcSQL>
+    <Field name="seq_no" type="Integer" src="seq_no"/>
+    <Field name="copy_number" type="Integer" src="copy_number"/>
+    <Field name="titre" type="String" src="titre"/>
+    <Field name="auteur" type="String" src="auteur"/>
+    <Field name="année de publication" type="Integer" src="Année de publication"/>
+    <Field name="editeur" type="String" src="editeur"/>
+    <Field name="date de reception" type="Date" src="date de reception"/>
+    <Field name="libelle_support" type="String" src="libelle_support"/>
+    <Field name="bibliothèque" type="String" src="Bibliothèque"/>
+    <Field name="type de document" type="String" src="Type de document"/>
+    <Field name="nb_prets" type="Integer" src="nb_prets"/>
+  </OGRVRTLayer>
+</OGRVRTDataSource>

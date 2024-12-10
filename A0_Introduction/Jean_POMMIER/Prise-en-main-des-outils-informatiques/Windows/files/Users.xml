@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Group>
+    <Name>Groupe 1</Name>
+    <Members>
+        <Utilisateur>Gabriel</Utilisateur>
+        <Utilisateur>Emma</Utilisateur>
+        <Utilisateur>Jules</Utilisateur>
+        <Utilisateur>Amir</Utilisateur>
+        <Utilisateur>Alice</Utilisateur>
+        <Utilisateur>Sacha</Utilisateur>
+        <Utilisateur>Milas</Utilisateur>
+        <Utilisateur>Louise</Utilisateur>
+        <Utilisateur>Hildegarde</Utilisateur>
+        <Utilisateur>Léo</Utilisateur>
+    </Members>
+    <Name>Groupe 2</Name>
+    <Members>
+        <Utilisateur>Jade</Utilisateur>
+        <Utilisateur>Emma</Utilisateur>
+        <Utilisateur>Arthurs</Utilisateur>
+        <Utilisateur>Amir</Utilisateur>
+        <Utilisateur>Alice</Utilisateur>
+        <Utilisateur>Sacha</Utilisateur>
+        <Utilisateur>Gilberts</Utilisateur>
+        <Utilisateur>Louise</Utilisateur>
+        <Utilisateur>Thomas</Utilisateur>
+        <Utilisateur>Léo</Utilisateur>
+    </Members>
+</Group>

@@ -1,0 +1,18 @@
+# Use postgres/example user/password credentials
+version: '3.1'
+
+volumes:
+  cpgeom2023_postgis_data:
+
+services:
+  db:
+    image: postgis/postgis
+    ports: 
+      - "5432:5432"
+    restart: always
+    environment:
+      POSTGRES_USER: cpgeom
+      POSTGRES_PASSWORD: secret
+      PGDATA: /var/lib/postgresql/data/pgdata
+    volumes:
+      - cpgeom2023_postgis_data:/var/lib/postgresql/data
