@@ -22,7 +22,7 @@
 Avant-Projet | Cadrage | Planification | Exécution / Surveillance | Clotûre
 ---|---|---|---|---
 Décision de faisabilité | <li>Définition du projet</li><li>Définition des objectifs/besoins</li><li>Signature du contrat</li> | Organisation détaillée du projet<li>Temps</li><li>Coûts</li><li>Risques</li><li>Découpage des tâches</li> | Exécution<li>Coordination des ressources</li><li>Réalisation du périmètre</li><br>Surveillance<li>*Surveillance*</li> | *Clotûre*
-### Avant-Projet
+> #### Avant-Projet
 > L'objectif de cette phase est de disposer d'informations pertinentes pour éclairer la décision de démarrer ou non le projet.
 >> Il peut-être judicieux de réaliser différentes analyses comme:
 >>> - Etude de marché
@@ -35,7 +35,7 @@ Décision de faisabilité | <li>Définition du projet</li><li>Définition des ob
 > *'Gemba' du japonais signifie 'le véritable endroit', 'là où se trouve la réalité'. D'où le concept qui consiste à observer et se rapprocher de la situation de terrain pour mieux en comprendre les besoins ou pistes d'améliorations.*
 
 > #### Un document essentiel: la **Charte du Projet**
->> - Présentation du projet
+>> - Définition des objectifs
 >>> Définis les objectifs du projet et les critères de mesure de succès. 
 >> - 
 >>> 
@@ -50,6 +50,7 @@ Décision de faisabilité | <li>Définition du projet</li><li>Définition des ob
 >
 > La charte de projet est aussi le **document de référence** pour:
 >> - Valider les enjeux et opportunités du projet
+>> - 
 >> - 
 
 ### Planification
