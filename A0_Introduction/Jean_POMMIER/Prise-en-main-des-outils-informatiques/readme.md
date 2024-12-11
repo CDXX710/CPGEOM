@@ -4,13 +4,13 @@
 ---
 
 # Formation "Prise en main de l'outil informatique"
-_Jean Pommier, jean.pommier@pi-geosolutions.fr_
+*Jean Pommier, jean.pommier@pi-geosolutions.fr*
 
-_[IdGeo](https://www.idgeo.fr/), 3 décembre 2024_
+*[IdGeo](https://www.idgeo.fr/), 3 décembre 2024*
 
 ---
 
-_Sources : https://github.com/pi-geosolutions/formation_prise_en_main_outil_informatique_
+*Sources : https://github.com/pi-geosolutions/formation_prise_en_main_outil_informatique*
 
 ---
 
