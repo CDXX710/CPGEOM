@@ -14,19 +14,19 @@
 ### PARTIES PRENANTES
 > 1. Le commanditaire
 >
-> 2. Le client
+> 1. Le client
 > 
-> 3. Le chef de projet
+> 1. Le chef de projet
 > 
-> 4. L'équipe projet
+> 1. L'équipe projet
 > 
-> 5. Le management de l'entreprise
+> 1. Le management de l'entreprise
 > 
-> 6. Les utilisateurs
+> 1. Les utilisateurs
 > 
-> 7. Les fournisseurs
+> 1. Les fournisseurs
 > 
-> 8. Les pouvoirs publics
+> 1. Les pouvoirs publics
 
 > **MOA:** *Maîtrise d'ouvrage* -> *Entité représentant le besoin client.*
 >
@@ -56,17 +56,17 @@
 >> Il se décine en **sept grands principes**:
 >>> 1. Orientation client
 >>>
->>> 2. Résponsabilité de direction
+>>> 1. Résponsabilité de direction
 >>>
->>> 3. Implication du personnel
+>>> 1. Implication du personnel
 >>>
->>> 4. Approche processus
+>>> 1. Approche processus
 >>>
->>> 4. Amélioration
+>>> 1. Amélioration
 >>>
->>> 5. Prise de décision fondée sur des preuves
+>>> 1. Prise de décision fondée sur des preuves
 >>>
->>> 6. Management des relations avec les parties intéressées
+>>> 1. Management des relations avec les parties intéressées
 >>
 >> Un bon SMQ doit
 >
