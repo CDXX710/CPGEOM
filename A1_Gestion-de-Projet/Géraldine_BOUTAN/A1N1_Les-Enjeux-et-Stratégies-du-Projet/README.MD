@@ -11,9 +11,9 @@
 ---
 #### [➤&nbsp;A. Organisation des Entreprises](README.MD#a-organisation-des-entreprises)
 #### [➤&nbsp;B. Pourquoi un Projet ?](README.MD#b-pourquoi-un-projet)
-#### [➤&nbsp;C. La Gouvernance](README.MD#c-la-gouvernance)
-#### [➤&nbsp;D. Pilotage du projet](README.MD#d-pilotage-du-projet)
-#### [➤&nbsp;E. SMQ](README.MD#e-smq)
+#### [➤&nbsp;C. La Gouvernance](README.MD#c-la-gouvernance-1)
+#### [➤&nbsp;D. Pilotage du projet](README.MD#d-pilotage-du-projet-1)
+#### [➤&nbsp;E. SMQ](README.MD#e-smq-1)
 ---
 
 ## A. ORGANISATION DES ENTREPRISES
