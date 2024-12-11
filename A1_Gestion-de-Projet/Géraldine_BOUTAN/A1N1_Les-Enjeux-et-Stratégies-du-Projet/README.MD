@@ -5,7 +5,8 @@
 ### [↺ Racine](../../../README.MD)
 ---
 
-<br>
+# Formation "Enjeux et Stratégies du Projet"
+*[IdGeo](https://www.idgeo.fr/), 10/11 décembre 2024*
 
 ---
 #### [➤ Organisation des Entreprises](README.MD#organisation-des-entreprises)
