@@ -9,14 +9,14 @@
 *11 décembre 2024* 
 
 ---
-#### [➤&nbsp;A. Définition d'un projet](README.MD#a-definition-d-un-projet)
+#### [➤&nbsp;A. Définition d'un projet](README.MD#a-définition-dun-projet)
 #### [➤&nbsp;B. ](README.MD#b-)
-#### [➤&nbsp;C. La Gouvernance](README.MD#c-)
-#### [➤&nbsp;D. Pilotage du projet](README.MD#d-)
-#### [➤&nbsp;E. SMQ](README.MD#e-)
+#### [➤&nbsp;C. ](README.MD#c-)
+#### [➤&nbsp;D. ](README.MD#d-)
+#### [➤&nbsp;E. ](README.MD#e-)
 ---
 
-## A. Définition d'un Projet 
+## A. Définition d'un Projet
 
 ## B. 
 
