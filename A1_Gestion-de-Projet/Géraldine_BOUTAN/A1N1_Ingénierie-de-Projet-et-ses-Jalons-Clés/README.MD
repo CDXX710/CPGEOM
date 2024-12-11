@@ -20,7 +20,7 @@
 
 ## B. LES ETAPES D'UN PROJET
 Avant-Projet | Cadrage | Planification | Execution / Surveillance | Clotûre
----
+---|---|---|---|---
 Décision de faisabilité | Définition du projet, des objectifs et du contrat | Organisation détaillée du projet, | *Exec/Surv* | *Clotûre*
 
 ## C. 
