@@ -33,34 +33,34 @@
 ## Cadrage
 > ### **QQQOPCC**:
 >*Quand ? Qui ? Quoi ? Où ?  Pourquoi ? Comment ? Combien ?*
-
+> ---
 > ### **Gemba Walk**:
 > *'Gemba' du japonais signifie 'le véritable endroit', 'là où se trouve la réalité'. D'où le concept qui consiste à observer et se rapprocher de la situation de terrain pour mieux en comprendre les besoins ou pistes d'améliorations.*
-
+---
 > ### La Charte du Projet
 >> - #### <mark>Définition des objectifs</mark>
 >> Défini les objectifs du projet et les critères de mesure de succès.
->
+> ---
 >> - #### <mark>Périmètre du projet</mark>
 >> Description générale des inclusions et exclusions du projet.
 >>
 >> Détaille également les caractéristiques du produit, service ou résultat à atteindre. 
->
+> ---
 >> - #### <mark>Jalons</mark>
 >> Décrit les phases et étapes du projet ainsi que les points de vérification ou approbation.
 >>
 >> Indique également les contraintes en termes de délais à prendre en compte.
->
+> ---
 >> - #### <mark>Livrables</mark>
 >> Définit les principaux produits, services ou résultats qui doivent être fourni dans le cadre du projet.
 >>> *Ne pas oublier les livrables internes requis au management du projet.*
 >>
 >> Précise également les critères d'évaluation de la réussite et de la qualité des livrables.
->
+> ---
 >> - #### <mark>Budget et sources de financement</mark>
 >> Présentation du budget global approuvé pour le projet ainsi qu'une estimation des coûts en différentes ressources *(humaines, matérielles et financières).*
 >>> *Indiquer les différentes sources de financement pour supporter le projet.*
->
+> ---
 >> - #### <mark>Risques</mark>
 >> Présentation initiale des risques, notemment stratégiques.
 >>> Evaluer l'impact et la probabilité de chaque risque identifié.
@@ -75,10 +75,10 @@
 >>
 >> Le **SWOT**: *Strength, Weakness, Opportunities and Threats*
 >>> Interne ou Externe, le SWOT ***ne peut pas*** être communiqué à tous les acteurs. 
->
+> ---
 >> - #### <mark></mark>
 >> 
-> ---
+---
 > #### La charte de projet est aussi le ***document de référence*** pour:
 > - Valider les enjeux et opportunités du projet
 > - 
