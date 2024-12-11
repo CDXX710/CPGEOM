@@ -9,14 +9,14 @@
 *11 décembre 2024* 
 
 ---
-#### [➤&nbsp;A. Définition d'un projet](README.MD#a-définition-dun-projet)
+#### [➤&nbsp;A. Définition d'un projet](README.MD#a-definition-dun-projet)
 #### [➤&nbsp;B. ](README.MD#b-)
 #### [➤&nbsp;C. ](README.MD#c-)
 #### [➤&nbsp;D. ](README.MD#d-)
 #### [➤&nbsp;E. ](README.MD#e-)
 ---
 
-## A. Définition d'un Projet
+## A. DEFINITION D'UN PROJET
 
 ## B. 
 
