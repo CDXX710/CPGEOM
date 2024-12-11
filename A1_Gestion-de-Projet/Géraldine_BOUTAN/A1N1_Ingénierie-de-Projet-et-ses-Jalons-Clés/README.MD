@@ -52,12 +52,12 @@
 >
 >> - #### Livrables
 >> Définit les principaux produits, services ou résultats qui doivent être fourni dans le cadre du projet.
->>> *Ne pas oublier les livrables internes requis au management du projet*
+>>> *Ne pas oublier les livrables internes requis au management du projet.*
 >>
 >> Précise également les critères d'évaluation de la réussite et de la qualité des livrables.
 >
 >> - #### Budget et sources de financement
->> Présentation du budget global approuvé pour le projet ainsi qu'une estimation des coûts en différentes ressources *(humaines, matérielles et financières)*
+>> Présentation du budget global approuvé pour le projet ainsi qu'une estimation des coûts en différentes ressources *(humaines, matérielles et financières).*
 >>> *Indiquer les différentes sources de financement pour supporter le projet.*
 >
 >> - #### Risques
