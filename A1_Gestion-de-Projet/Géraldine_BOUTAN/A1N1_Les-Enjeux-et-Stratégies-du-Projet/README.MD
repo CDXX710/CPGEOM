@@ -7,11 +7,11 @@
 # Formation "Enjeux et Stratégies du Projet"
 *[IdGeo](https://www.idgeo.fr/), 10/11 décembre 2024*
 ---
-#### [➤  A. Organisation des Entreprises](README.MD#a-organisation-des-entreprises)
-#### [➤  B. Pourquoi un Projet ?](README.MD#b-pourquoi-un-projet)
-#### [➤  C. La Gouvernance](README.MD#c-la-gouvernance)
-#### [➤  D. Pilotage du projet](README.MD#d-pilotage-du-projet)
-#### [➤  E. SMQ](README.MD#e-smq)
+#### [➤&nbsp;A. Organisation des Entreprises](README.MD#a-organisation-des-entreprises)
+#### [➤&nbsp;B. Pourquoi un Projet ?](README.MD#b-pourquoi-un-projet)
+#### [➤&nbsp;C. La Gouvernance](README.MD#c-la-gouvernance)
+#### [➤&nbsp;D. Pilotage du projet](README.MD#d-pilotage-du-projet)
+#### [➤&nbsp;E. SMQ](README.MD#e-smq)
 ---
 <br>
 
