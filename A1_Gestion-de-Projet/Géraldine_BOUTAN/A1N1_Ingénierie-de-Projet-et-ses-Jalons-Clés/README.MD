@@ -33,7 +33,7 @@
 ## Cadrage
 > ### **QQQOPCC**:
 >*Quand ? Qui ? Quoi ? Où ?  Pourquoi ? Comment ? Combien ?*
----
+
 > ### **Gemba Walk**:
 > *'Gemba' du japonais signifie 'le véritable endroit', 'là où se trouve la réalité'. D'où le concept qui consiste à observer et se rapprocher de la situation de terrain pour mieux en comprendre les besoins ou pistes d'améliorations.*
 ---
