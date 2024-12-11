@@ -4,10 +4,8 @@
 ---
 ### [↺ Racine](../../../README.MD)
 ---
-
 # Formation "Enjeux et Stratégies du Projet"
 *[IdGeo](https://www.idgeo.fr/), 10/11 décembre 2024*
-
 ---
 #### [➤ Organisation des Entreprises](README.MD#organisation-des-entreprises)
 #### [➤ Pourquoi un Projet ?](README.MD#pourquoi-un-projet)
@@ -15,11 +13,7 @@
 #### [➤ Pilotage du projet](README.MD#pilotage-du-projet)
 #### [➤ SMQ](README.MD#smq)
 ---
-
 <br>
-
----
-
 ## ORGANISATION DES ENTREPRISES
 
 ## POURQUOI UN PROJET
