@@ -28,7 +28,7 @@ Décision de faisabilité | <li>Définition du projet</li><li>Définition des ob
 >>> - Etude de marché
 >>> - 
 ### Cadrage
-> ***QQQOPCC**:*Qui ? Quoi ? Quand ? Où ?  Pourquoi ? Comment ? Combien ?*
+> **QQQOPCC**: *Qui ? Quoi ? Quand ? Où ?  Pourquoi ? Comment ? Combien ?*
 ### Planification
 >
 ### Exécution
