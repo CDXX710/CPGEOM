@@ -64,8 +64,9 @@
 >> 
 >
 >> - #### 
+>> 
 >
-> La charte de projet est aussi le **document de référence** pour:
+> La charte de projet est aussi le ***document de référence*** pour:
 >> - Valider les enjeux et opportunités du projet
 >> - 
 >> - 
