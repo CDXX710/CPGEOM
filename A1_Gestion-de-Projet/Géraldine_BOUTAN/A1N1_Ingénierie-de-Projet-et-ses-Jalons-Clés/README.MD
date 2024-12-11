@@ -61,7 +61,10 @@
 >>> *Indiquer les différentes sources de financement pour supporter le projet.*
 >
 >> - #### Risques
->> 
+>> Présentation initiale des risques, notemment stratégiques.
+>>> Evaluer l'impact et la probabilité de chaque risque identifié.
+>>
+>> Détérminer la stratégie à adopter pour maîtriser chacun des risques, ainsi que la personne ou équipe en charge le cas échéant. 
 >
 >> - #### 
 >> 
