@@ -13,7 +13,6 @@
 #### [➤&nbsp;D. Pilotage du projet](README.MD#d-pilotage-du-projet)
 #### [➤&nbsp;E. SMQ](README.MD#e-smq)
 ---
-<br>
 
 ## A. ORGANISATION DES ENTREPRISES
 
