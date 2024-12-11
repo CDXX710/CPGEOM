@@ -36,8 +36,7 @@
 
 > ### **Gemba Walk**:
 > *'Gemba' du japonais signifie 'le véritable endroit', 'là où se trouve la réalité'. D'où le concept qui consiste à observer et se rapprocher de la situation de terrain pour mieux en comprendre les besoins ou pistes d'améliorations.*
->
-> ---
+---
 > ### La Charte du Projet
 >> - #### <mark>Définition des objectifs</mark>
 >> Défini les objectifs du projet et les critères de mesure de succès.
