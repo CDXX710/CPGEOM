@@ -14,6 +14,7 @@
 #### [➤ SMQ](README.MD#smq)
 ---
 <br>
+
 ## ORGANISATION DES ENTREPRISES
 
 ## POURQUOI UN PROJET
