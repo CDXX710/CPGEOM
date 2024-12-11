@@ -65,7 +65,12 @@
 >>> Evaluer l'impact et la probabilité de chaque risque identifié.
 >>
 >> Détérminer la stratégie à adopter pour maîtriser chacun des risques, ainsi que la personne ou équipe en charge le cas échéant. 
->
+>>
+>> Les différents traitements possibles:
+>>> - Eliminer le risque.
+>>> - Atténuer le risque.
+>>> - Transférer le risque.
+>>> - Accepter le risque.
 >> - #### 
 >> 
 
