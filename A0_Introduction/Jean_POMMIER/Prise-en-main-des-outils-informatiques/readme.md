@@ -14,7 +14,8 @@
 
 ---
 
-\vspace{2cm}
+<br>
+<br>
 
 Ce cours a pour objectif d'homogénéiser votre niveau de maîtrise de l'outil informatique de base.
 Pour des raisons temporelles, nous ne pourrons pas tout couvrir ni aller très loin sur chaque sujet. L'idée est de vous donner quelques bases, et peut-être l'envie de creuser certains sujets.
