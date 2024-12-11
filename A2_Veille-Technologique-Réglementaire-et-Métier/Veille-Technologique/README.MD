@@ -5,6 +5,8 @@
 ### [↺ Racine](../../README.MD)
 ---
 
+<br>
+
 #### [➤ Introduction](README.MD#introduction)
 #### [➤ Organisation](README.MD#organisation)
 #### [➤ Solutions de Collecte et Analyse](README.MD#solutions-de-collecte-et-analyse)
@@ -12,8 +14,11 @@
 #### [➤ Les Grandes Etapes](README.MD#les-grandes-etapes)
 #### [➤ Les Indispensables](README.MD#les-indispensables)
 
-
 ---
+
+<br>
+<br>
+
 # INTRODUCTION
 
 ### DÉFINITION DE L'ACTIVITÉ
