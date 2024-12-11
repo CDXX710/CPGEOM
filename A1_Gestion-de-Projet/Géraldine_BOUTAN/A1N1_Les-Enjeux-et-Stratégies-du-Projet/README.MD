@@ -5,6 +5,7 @@
 ### [↺ Racine](../../../README.MD)
 ---
 # Formation "Enjeux et Stratégies du Projet"
+
 *10/11 décembre 2024*
 ---
 #### [➤&nbsp;A. Organisation des Entreprises](README.MD#a-organisation-des-entreprises)
