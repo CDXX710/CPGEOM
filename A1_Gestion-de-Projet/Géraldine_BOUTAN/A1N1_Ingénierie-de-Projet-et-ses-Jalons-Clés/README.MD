@@ -71,6 +71,10 @@
 >>> - Atténuer le risque.
 >>> - Transférer le risque.
 >>> - Accepter le risque.
+>>
+>> Le **SWOT**: *Strength, Weakness, Opportunities and Threats*
+>>> Interne ou Externe, le SWOT <mark>ne peut pas</mark> être communiqué à tous les acteurs. 
+>
 >> - #### 
 >> 
 
