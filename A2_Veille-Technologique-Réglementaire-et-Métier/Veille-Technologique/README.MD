@@ -14,10 +14,9 @@
 #### [➤ Les Grandes Etapes](README.MD#les-grandes-etapes)
 #### [➤ Les Indispensables](README.MD#les-indispensables)
 
----
+<br>
 
-<br>
-<br>
+---
 
 # INTRODUCTION
 
