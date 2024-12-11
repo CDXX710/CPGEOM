@@ -75,7 +75,7 @@
 >>
 >> Le **SWOT**: *Strengths, Weaknesses, Opportunities and Threats*
 >>> Interne ou Externe, le SWOT ***ne peut pas*** être communiqué à tous les acteurs. 
->>>> ![Exercice du 11/12/24 sur le SWOT](https://www.ftp-dcampos.alwaysdata.net/www/gis/img/exo_swot-11-12-24.png "Exercice SWOT 11/12/24")
+>>>> ![Exercice du 11/12/24 sur le SWOT](exo_swot-11-12-24.png "Exercice SWOT 11/12/24")
 > ---
 >> - #### <mark></mark>
 >> 
