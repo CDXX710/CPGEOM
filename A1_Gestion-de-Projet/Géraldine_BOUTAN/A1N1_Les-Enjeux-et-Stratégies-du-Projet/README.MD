@@ -1,4 +1,4 @@
-[↳ Support PDF]()
+### [↳ Support PDF]()
 ---
 ### [↺ Retour](../README.MD)
 ---
@@ -7,12 +7,9 @@
 
 ## ORGANISATION DES ENTREPRISES
 
-
 ## POURQUOI UN PROJET
 
-
 ### ENJEUX ET OBJECTIFS
-
 
 ### PARTIES PRENANTES
 > 1. Le commanditaire
@@ -36,28 +33,35 @@
 > **AMOA:** *Assistant à maîtrise d'ouvrage* -> *Entité éventuellement mandaté par le client pour superviser la réalisation technique.*
 >
 > **MOE:** *Maîtrise d'œuvre* -> *Entité en charge de la partie technique.*
-### SCHÉMA DIRECTEUR
 
+### SCHÉMA DIRECTEUR
 
 ### DIMENSION / COMPLEXITÉ
 
-
 ## LA GOUVERNANCE
-
 
 ### RÔLES
 
-
 ### RÉUNIONS
-
 
 ## PILOTAGE DU PROJET
 
-
 ### KPI
 
-
 ### TABLEAU DE BORD
-
+> **Le tableau de bord permet de suivre l'état de santé d'un projet grâce à des indicateurs claires et précis sur les différents critères principaux.**
 
 ## SMQ
+> **SMQ:** *Système de Management de Qualité* -> *Organisation mise en place par une entreprise pour atteindre sa politique et ses objectifs qualité.*
+>> Il se décine en **sept** grands principes:
+>>> Orientation client
+>>> Résponsabilité de direction
+>>> Implication du personnel
+>>> Approche processus
+>>> Amélioration
+>>> Prise de décision fondée sur des preuves
+>>> Management des relations avec les parties intéressées
+>>
+>> Un bon SMQ doit
+>
+> **PAQ:** *Plan d'Assurance Qualité* -> *Standards de qualité mis en place au niveau du projet.*
