@@ -32,12 +32,22 @@ Décision de faisabilité | <li>Définition du projet</li><li>Définition des ob
 
 > **Gemba Walk**: *'Gemba' du japonais signifie 'le véritable endroit', 'là où se trouve la réalité'. D'où le concept qui consiste à observer et se rapprocher de la situation de terrain pour mieux en comprendre les besoins ou pistes d'améliorations.*
 
-> Un document essentiel: la **Charte du Projet**
->> -
->> -
->> -
->> -
->> -
+> #### Un document essentiel: la **Charte du Projet**
+>> - Présentation du projet
+>>> Définis les objectifs du projet et les critères de mesure de succès. 
+>> - 
+>>> 
+>> - 
+>>> 
+>> - 
+>>> 
+>> - 
+>>> 
+>> - 
+>>> 
+>
+> La charte de projet est aussi le **document de référence** pour:
+>> - Valider les enjeux et opportunités du projet
 >> - 
 
 ### Planification
