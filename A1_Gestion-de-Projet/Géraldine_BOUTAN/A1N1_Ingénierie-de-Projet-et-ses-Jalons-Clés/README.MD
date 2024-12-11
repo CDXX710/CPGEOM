@@ -38,25 +38,25 @@
 
 > #### Un document essentiel: la ***Charte du Projet***
 >> - #### Définition des objectifs
->>> Défini les objectifs du projet et les critères de mesure de succès. 
+>> Défini les objectifs du projet et les critères de mesure de succès. 
 >> - #### Périmètre du projet
->>> Description générale des inclusions et exclusions du projet.
->>>
->>> Détaille également les caractéristiques du produit, service ou résultat à atteindre. 
+>> Description générale des inclusions et exclusions du projet.
+>>
+>> Détaille également les caractéristiques du produit, service ou résultat à atteindre. 
 >> - #### Jalons
->>> Décrit les phases et étapes du projet ainsi que les points de vérification ou approbation.
->>>
->>> Indique également les contraintes en termes de délais à prendre en compte.
+>> Décrit les phases et étapes du projet ainsi que les points de vérification ou approbation.
+>>
+>> Indique également les contraintes en termes de délais à prendre en compte.
 >> - #### Livrables
->>> Définit les principaux produits, services ou résultats qui doivent être fourni dans le cadre du projet.
->>>> *Ne pas oublier les livrables internes requis au management du projet*
->>>
->>> Précise également les critères d'évaluation de la réussite et de la qualité des livrables.
+>> Définit les principaux produits, services ou résultats qui doivent être fourni dans le cadre du projet.
+>>> *Ne pas oublier les livrables internes requis au management du projet*
+>>
+>> Précise également les critères d'évaluation de la réussite et de la qualité des livrables.
 >> - #### Budget et sources de financement
->>> Présentation du budget global approuvé pour le projet ainsi qu'une estimation des coûts en différentes ressources *(humaines, matérielles et financières)*
->>>> *Indiquer les différentes sources de financement pour supporter le projet.*
+>> Présentation du budget global approuvé pour le projet ainsi qu'une estimation des coûts en différentes ressources *(humaines, matérielles et financières)*
+>>> *Indiquer les différentes sources de financement pour supporter le projet.*
 >> - #### Risques
->>> 
+>> 
 >> - #### 
 >
 > La charte de projet est aussi le **document de référence** pour:
