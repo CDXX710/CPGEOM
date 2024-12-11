@@ -79,7 +79,7 @@
 <details> 
   <summary>Exercice du 11/12/24 sur le SWOT</summary>
 
-   ![Exercice du 11/12/24 sur le SWOT](exo_swot-11-12-24.png "Exercice SWOT 11/12/24")
+   > ![Exercice du 11/12/24 sur le SWOT](exo_swot-11-12-24.png "Exercice SWOT 11/12/24")
 
 </details>
 
