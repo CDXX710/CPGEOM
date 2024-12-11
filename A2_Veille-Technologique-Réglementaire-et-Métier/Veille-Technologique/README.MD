@@ -3,22 +3,22 @@
 ### [↺ Retour](../README.MD)
 ---
 ### [↺ Racine](../../README.MD)
+---
 
 <br>
 
 ---
-
 #### [➤ Introduction](README.MD#introduction)
 #### [➤ Organisation](README.MD#organisation)
 #### [➤ Solutions de Collecte et Analyse](README.MD#solutions-de-collecte-et-analyse)
 #### [➤ Valorisation](README.MD#valorisation)
 #### [➤ Les Grandes Etapes](README.MD#les-grandes-etapes)
 #### [➤ Les Indispensables](README.MD#les-indispensables)
-
 ---
 
 <br>
 
+---
 # INTRODUCTION
 
 ### DÉFINITION DE L'ACTIVITÉ
