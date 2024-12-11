@@ -45,10 +45,12 @@
 >>> Détaille également les caractéristiques du produit, service ou résultat à atteindre. 
 >> - Jalons
 >>> Décrit les phases et étapes du projet ainsi que les points de vérification ou approbation.
+>>>
 >>> Indique également les contraintes en termes de délais à prendre en compte.
 >> - Livrables
 >>> Définit les principaux produits, services ou résultats qui doivent être fourni dans le cadre du projet.
 >>>> *Ne pas oublier les livrables internes requis au management du projet*
+>>>
 >>> Précise également les critères d'évaluation de la réussite et de la qualité des livrables.
 >> - Budget et sources de financement
 >>> Présentation du budget global approuvé pour le projet ainsi qu'une estimation des coûts en différentes ressources (humaines, matérielles et financières)
