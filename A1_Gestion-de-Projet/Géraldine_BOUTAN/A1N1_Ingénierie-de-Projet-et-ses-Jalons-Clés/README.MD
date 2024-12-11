@@ -24,11 +24,12 @@
 > ---|---|---|---|---
 > Décision de faisabilité | <li>Définition du projet</li><li>Définition des objectifs/besoins</li><li>Signature du contrat</li> | Organisation détaillée:<li>Temps</li><li>Coûts</li><li>Risques</li><li>Découpage des tâches</li> | Exécution<li>Coordination des ressources</li><li>Réalisation du périmètre</li><br>Surveillance<li>*Surveillance*</li> | *Clotûre*
 
-> ## Avant-Projet
+## Avant-Projet
 > L'objectif de cette phase est de disposer d'informations pertinentes pour éclairer la décision de démarrer ou non le projet.
 >> Il peut-être judicieux de réaliser différentes analyses comme:
 >>> - Etude de marché
 >>> - 
+
 ## Cadrage
 > ### **QQQOPCC**:
 >*Quand ? Qui ? Quoi ? Où ?  Pourquoi ? Comment ? Combien ?*
@@ -77,7 +78,7 @@
 >
 >> - #### <mark></mark>
 >> 
-
+>
 > ### La charte de projet est aussi le ***document de référence*** pour:
 > - Valider les enjeux et opportunités du projet
 > - 
