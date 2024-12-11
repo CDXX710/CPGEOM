@@ -37,7 +37,7 @@
 > ### **Gemba Walk**:
 > *'Gemba' du japonais signifie 'le véritable endroit', 'là où se trouve la réalité'. D'où le concept qui consiste à observer et se rapprocher de la situation de terrain pour mieux en comprendre les besoins ou pistes d'améliorations.*
 
-> ### Un document essentiel: la ***Charte du Projet***
+> ### La Charte du Projet
 >> - #### <mark>Définition des objectifs</mark>
 >> Défini les objectifs du projet et les critères de mesure de succès.
 >
@@ -79,7 +79,7 @@
 >> - #### <mark></mark>
 >> 
 >
-> ### La charte de projet est aussi le ***document de référence*** pour:
+> #### La charte de projet est aussi le ***document de référence*** pour:
 > - Valider les enjeux et opportunités du projet
 > - 
 > - 
