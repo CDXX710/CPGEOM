@@ -7,11 +7,11 @@
 # Formation "Enjeux et Stratégies du Projet"
 *[IdGeo](https://www.idgeo.fr/), 10/11 décembre 2024*
 ---
-#### [➤ A. Organisation des Entreprises](README.MD#a.-organisation-des-entreprises)
-#### [➤ B. Pourquoi un Projet ?](README.MD#pourquoi-un-projet)
-#### [➤ C. La Gouvernance](README.MD#la-gouvernance)
-#### [➤ D. Pilotage du projet](README.MD#pilotage-du-projet)
-#### [➤ E. SMQ](README.MD#smq)
+#### [➤ A. Organisation des Entreprises](README.MD#a-organisation-des-entreprises)
+#### [➤ B. Pourquoi un Projet ?](README.MD#b-pourquoi-un-projet)
+#### [➤ C. La Gouvernance](README.MD#c-la-gouvernance)
+#### [➤ D. Pilotage du projet](README.MD#d-pilotage-du-projet)
+#### [➤ E. SMQ](README.MD#e-smq)
 ---
 <br>
 
@@ -48,20 +48,20 @@
 
 ### DIMENSION / COMPLEXITÉ
 
-## LA GOUVERNANCE
+## C. LA GOUVERNANCE
 
 ### RÔLES
 
 ### RÉUNIONS
 
-## PILOTAGE DU PROJET
+## D. PILOTAGE DU PROJET
 
 ### KPI
 
 ### TABLEAU DE BORD
 > **Le tableau de bord permet de suivre l'état de santé d'un projet grâce à des indicateurs claires et précis sur les différents critères principaux.**
 
-## SMQ
+## E. SMQ
 > **SMQ:** *Système de Management de Qualité* -> *Organisation mise en place par une entreprise pour atteindre sa politique et ses objectifs qualité.*
 >> Il se décine en **sept grands principes**:
 >>> 1. Orientation client
