@@ -19,7 +19,7 @@
 # A. DEFINITION D'UN PROJET
 
 # B. LES ETAPES D'UN PROJET
-> ## Timeline du projet
+## Timeline du projet
 > Avant-Projet | Cadrage | Planification | Exécution et Surveillance | Clotûre
 > ---|---|---|---|---
 > Décision de faisabilité | <li>Définition du projet</li><li>Définition des objectifs/besoins</li><li>Signature du contrat</li> | Organisation détaillée:<li>Temps</li><li>Coûts</li><li>Risques</li><li>Découpage des tâches</li> | Exécution<li>Coordination des ressources</li><li>Réalisation du périmètre</li><br>Surveillance<li>*Surveillance*</li> | *Clotûre*
