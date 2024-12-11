@@ -8,12 +8,11 @@
 <br>
 
 ---
-#### [➤ Introduction](README.MD#introduction)
-#### [➤ Organisation](README.MD#organisation)
-#### [➤ Solutions de Collecte et Analyse](README.MD#solutions-de-collecte-et-analyse)
-#### [➤ Valorisation](README.MD#valorisation)
-#### [➤ Les Grandes Etapes](README.MD#les-grandes-etapes)
-#### [➤ Les Indispensables](README.MD#les-indispensables)
+#### [➤ Organisation des Entreprises](README.MD#organisation-des-entreprises)
+#### [➤ Pourquoi un Projet ?](README.MD#pourquoi-un-projet)
+#### [➤ La Gouvernance](README.MD#la-gouvernance)
+#### [➤ Pilotage du projet](README.MD#pilotage-du-projet)
+#### [➤ SMQ](README.MD#smq)
 ---
 
 <br>
