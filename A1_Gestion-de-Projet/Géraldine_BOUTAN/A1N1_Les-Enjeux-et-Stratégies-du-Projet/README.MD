@@ -68,6 +68,7 @@
 >>>
 >>> 1. Management des relations avec les parties intéressées
 >>
->> Un bon SMQ doit
+>> Un bon SMQ doit:
+>>> 
 >
 > **PAQ:** *Plan d'Assurance Qualité* -> *Standards de qualité mis en place au niveau du projet.*
