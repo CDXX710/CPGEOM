@@ -16,27 +16,27 @@
 #### [➤&nbsp;E. ](README.MD#e-)
 ---
 
-## A. DEFINITION D'UN PROJET
+# A. DEFINITION D'UN PROJET
 
-## B. LES ETAPES D'UN PROJET
-> #### Timeline du projet
+# B. LES ETAPES D'UN PROJET
+> ## Timeline du projet
 > Avant-Projet | Cadrage | Planification | Exécution et Surveillance | Clotûre
 > ---|---|---|---|---
 > Décision de faisabilité | <li>Définition du projet</li><li>Définition des objectifs/besoins</li><li>Signature du contrat</li> | Organisation détaillée:<li>Temps</li><li>Coûts</li><li>Risques</li><li>Découpage des tâches</li> | Exécution<li>Coordination des ressources</li><li>Réalisation du périmètre</li><br>Surveillance<li>*Surveillance*</li> | *Clotûre*
 
-> #### Avant-Projet
+> ## Avant-Projet
 > L'objectif de cette phase est de disposer d'informations pertinentes pour éclairer la décision de démarrer ou non le projet.
 >> Il peut-être judicieux de réaliser différentes analyses comme:
 >>> - Etude de marché
 >>> - 
-### Cadrage
-> #### **QQQOPCC**:
+## Cadrage
+> ### **QQQOPCC**:
 >*Quand ? Qui ? Quoi ? Où ?  Pourquoi ? Comment ? Combien ?*
 
-> #### **Gemba Walk**:
+> ### **Gemba Walk**:
 > *'Gemba' du japonais signifie 'le véritable endroit', 'là où se trouve la réalité'. D'où le concept qui consiste à observer et se rapprocher de la situation de terrain pour mieux en comprendre les besoins ou pistes d'améliorations.*
 
-> #### Un document essentiel: la ***Charte du Projet***
+> ### Un document essentiel: la ***Charte du Projet***
 >> - #### <mark>Définition des objectifs</mark>
 >> Défini les objectifs du projet et les critères de mesure de succès.
 >
@@ -75,25 +75,25 @@
 >> Le **SWOT**: *Strength, Weakness, Opportunities and Threats*
 >>> Interne ou Externe, le SWOT ***ne peut pas*** être communiqué à tous les acteurs. 
 >
->> - #### 
+>> - #### <mark></mark>
 >> 
 
-> #### La charte de projet est aussi le ***document de référence*** pour:
+> ### La charte de projet est aussi le ***document de référence*** pour:
 > - Valider les enjeux et opportunités du projet
 > - 
 > - 
 
-### Planification
+## Planification
 >
-### Exécution
+## Exécution
 >
-### Surveillance
+## Surveillance
 >
-### Clôture
+## Clôture
 >
 
-## C. 
+# C. 
 
-## D.
+# D.
 
-## E.
+# E.
