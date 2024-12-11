@@ -61,7 +61,7 @@
 >>> Implication du personnel
 >>>
 >>> Approche processus
->>
+>>>
 >>> Amélioration
 >>>
 >>> Prise de décision fondée sur des preuves
