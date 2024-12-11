@@ -53,20 +53,20 @@
 
 ## SMQ
 > **SMQ:** *Système de Management de Qualité* -> *Organisation mise en place par une entreprise pour atteindre sa politique et ses objectifs qualité.*
->> Il se décine en **sept** grands principes:
->>> Orientation client
+>> Il se décine en **sept grands principes**:
+>>> 1. Orientation client
 >>>
->>> Résponsabilité de direction
+>>> 2. Résponsabilité de direction
 >>>
->>> Implication du personnel
+>>> 3. Implication du personnel
 >>>
->>> Approche processus
+>>> 4. Approche processus
 >>>
->>> Amélioration
+>>> 4. Amélioration
 >>>
->>> Prise de décision fondée sur des preuves
+>>> 5. Prise de décision fondée sur des preuves
 >>>
->>> Management des relations avec les parties intéressées
+>>> 6. Management des relations avec les parties intéressées
 >>
 >> Un bon SMQ doit
 >
