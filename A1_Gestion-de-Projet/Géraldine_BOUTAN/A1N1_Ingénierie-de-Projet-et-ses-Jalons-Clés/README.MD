@@ -10,7 +10,7 @@
 
 ---
 #### [➤&nbsp;A. Définition d'un Projet](README.MD#a-definition-dun-projet)
-#### [➤&nbsp;B. ](README.MD#b-)
+#### [➤&nbsp;B. Les Etapes d'un Projet](README.MD#b-les-etapes-dun-projet)
 #### [➤&nbsp;C. ](README.MD#c-)
 #### [➤&nbsp;D. ](README.MD#d-)
 #### [➤&nbsp;E. ](README.MD#e-)
@@ -18,7 +18,7 @@
 
 ## A. DEFINITION D'UN PROJET
 
-## B. 
+## B. LES ETAPES D'UN PROEJT
 
 ## C. 
 
