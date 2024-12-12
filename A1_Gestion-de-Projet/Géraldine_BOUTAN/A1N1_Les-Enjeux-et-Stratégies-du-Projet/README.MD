@@ -14,7 +14,8 @@
 #### [➤&nbsp;C. La Gouvernance](README.MD#c-la-gouvernance-1)
 #### [➤&nbsp;D. Pilotage du projet](README.MD#d-pilotage-du-projet-1)
 #### [➤&nbsp;E. SMQ](README.MD#e-smq-1)
-#### [➤&nbsp;D. A RETENIR](README.MD#D-a-retenir)
+#### [➤&nbsp;F. Procédures d'Achats](README.MD#f-procedures-achats)
+#### [➤&nbsp;G. A Retenir](README.MD#g-a-retenir)
 ---
 
 # A. ORGANISATION DES ENTREPRISES
@@ -597,7 +598,40 @@ l’organisation est en mesure d’accroître sa rentabilité, sa stabilité fin
 
 ---
 
-# D. A RETENIR
+# F. PROCEDURES D'ACHATS
+> ### MARCHE PUBLIC
+>> Un marché public est soumis à des principes fixés par la législation: liberté d'accès à la commande publique, égalité de traitement des candidats, transparence. L'acheteur doit se conformer à des procédures différentes en fonction de la valeur estimée de la commande et de la nature du marché (travaux, fourniture ou services).
+>>
+>> À partir de 40 000 € HT, la procédure de passation des marchés est obligatoirement dématérialisée (plateforme de l'acheteur)
+>
+> ---
+>
+> ### APPEL D'OFFRE
+>> Lorsqu'un acheteur d’une entité publique souhaite réaliser un achat dont la valeur estimée est inférieure aux seuils de procédure formalisée, il peut recourir à une procédure adaptée:
+>>> Dans ce cas, il détermine librement les conditions de la procédure dans le respect des principes de la législation en matière de marchés publics (liberté d'accès, égalité de traitement des candidats et transparence des procédures).
+>>>> S'il prévoit de négocier les offres, il doit le préciser dans les documents de la consultation.
+>>>
+>>> Les marchés publics sont passés en lots séparés : c'est la valeur estimée cumulée de tous les lots qui est prise en compte. Cependant, il existe 2 dérogations à ce principe : ils permettent de passer certains lots en procédure adaptée même si la valeur globale est supérieure aux 
+seuils:
+>>>> La valeur estimée de chaque lot concerné est inférieure à 80 000 € HT pour les fournitures et les services ou à 1 million € HT pour des travaux;
+>>>
+>>>> Le montant cumulé de ces petits lots ne dépasse pas 20 % de la valeur de tous les lots.
+>>
+>>Lorsque la valeur estimée du marché est égale ou supérieure aux seuils européens, le 
+marché est passé selon l'une des procédures formalisées suivantes:
+>>> - Appel d'offres: 
+>>>      - Ouvert lorsque tout fournisseur ou prestataire peut soumissionner.
+>>>      - Restreint lorsque seuls les candidats pré-sélectionnés par l'acheteur peuvent déposer une offre.
+>>>
+>>> - La procédure concurrentielle avec négociation;
+>>> - La procédure négociée avec mise en concurrence préalable (uniquement pour les entités adjudicatrices);
+>>> - Le dialogue compétitif:
+>>>>    L'acheteur dialogue avec les candidats admis à participer à la procédure en vue de définir ou de développer les solutions pouvant répondre à ses 
+besoins. C'est sur cette base que les candidats sont invités à remettre une offre.
+
+---
+
+# G. A RETENIR
 > ### UN PROJET SI:
 >> #### - Répond à un besoin économique, humain ou industriel de l’entreprise
 >> #### - S’intègre dans une stratégie SI à travers un schéma directeur
