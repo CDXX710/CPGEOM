@@ -124,44 +124,66 @@
 >>>> Performance: améliorer sa productivité et son efficacité
 
 ### PARTIES PRENANTES
-> 1. Le commanditaire
+> #### DEFINITION
+>><dl>
+>>  <dt>Partie prenante:</dt>
+>>  <dd>Une personne (ou organisation) impliquée dans le projet, ou qui peut être impactée par celui-ci.</dd>
+>>
+>> <dd><em>Elle peut exercer une influence sur le projet.</em></dd>
+>></dl>
 >
-> 1. Le client
-> 
-> 1. Le chef de projet
-> 
-> 1. L'équipe projet
-> 
-> 1. Le management de l'entreprise
-> 
-> 1. Les utilisateurs
-> 
-> 1. Les fournisseurs
-> 
-> 1. Les pouvoirs publics
+> ---
+>
+> #### LES DIFFERENTS PARTIES
+>> 1. Clients internes
+>>
+>> 1. Clients externes
+>> 
+>> 1. Commanditaires
+>> 
+>> 1. Futurs utilisateurs
+>> 
+>> 1. Décideurs de l’entreprise
+>>
+>> 1. DSI
+>> 
+>> 1. Fournisseurs
+>> 
+>> 1. Prestataires
+>> 
+>> 1. Partenaires
+>>
+>> 1. Equipe projet
+>>
+>> 1. Financier
 >
 > ---
 >
 ><dl>
 >  <dt>MOA:</dt>
->  <dd>Maîtrise d'ouvrage.</dd>
->  <dd><em>Entité représentant le besoin client.</em></dd>
+>>  <dd>Maîtrise d'ouvrage.</dd>
+>>
+>>  <dd><em>Entité représentant le besoin client.</em></dd>
+>
 ></dl>
 >
 > ---
 >
 ><dl>
->  <dt>AMOA:</dt>
->  <dd>Assistant à maîtrise d'ouvrage.</dd>
->  <dd><em>Entité éventuellement mandaté par le client pour superviser la réalisation technique.</em></dd>
+>>  <dt>AMOA:</dt>
+>>  <dd>Assistant à maîtrise d'ouvrage.</dd>
+>>  <dd><em>Entité éventuellement mandaté par le client pour superviser la réalisation technique.</em></dd>
+>
 ></dl>
 >
 > ---
 >
 ><dl>
 >  <dt>MOE:</dt>
->  <dd>Maîtrise d'œuvre.</dd>
->  <dd><em>Entité en charge de la partie technique.</em></dd>
+>>  <dd>Maîtrise d'œuvre.</dd>
+>
+>>  <dd><em>Entité en charge de la partie technique.</em></dd>
+>
 ></dl>
 
 ### SCHÉMA DIRECTEUR
