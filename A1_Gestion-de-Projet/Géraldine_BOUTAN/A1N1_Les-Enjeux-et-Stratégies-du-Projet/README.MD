@@ -201,6 +201,17 @@
 >>   <summary><em>SPOILER</em></summary>
 >>
 >>   ![Matrice Pouvoirs-Interêts](matrice-pouvoir-interets.png "Matrice Pouvoirs-Interêts")
+>
+> ---
+>
+> #### A RETENIR
+>> La gestion des parties prenantes permet de : 
+>>> - Les identifier
+>>> - Gérer leurs attentes et leur implication dans le projet
+>>> - Créer une zone de confiance 
+>>> - Anticiper des blocages potentiels
+>>
+>> ***La satisfaction des parties prenantes doit être gérée comme l’un des principaux objectifs du projet.***
 
 ---
 
