@@ -23,18 +23,24 @@
 >>  <dd>Unité économique, juridiquement autonome dont la fonction principale est de produire des biens ou des services pour un marché.</dd>
 >></dl>
 >
+> ---
+>
 >><dl>
 >>  <dt>Entreprise Privée:</dt>
 >>  <dd>Produit ou vend des biens ou des services avec pour finalité de réaliser des bénéfices tout en cherchant à assurer sa pérennité, prône la compétitivité et très attachée à sa réputation.</dd>
 >></dl>
+>
+> ---
 >
 >><dl>
 >>  <dt>Entreprise Public:</dt>
 >>  <dd>Assure la création de services qui assurent le bien-être de tous les individus d'une société. Contrairement aux sociétés privées, la finalité principale des entreprises publiques n'est pas la réalisation d'un profit, mais le fait d'assurer un service public.</dd>
 >></dl>
 
-### ORGANIGRAMMES
+---
 
+### ORGANIGRAMMES
+>
 > <details> 
 >   <summary><em>SPOILER</em></summary>
 >
@@ -46,7 +52,7 @@
 > </details>
 
 ## B. POURQUOI UN PROJET
-### DEFINITION D'UN PROJET SI
+> ### DEFINITION D'UN PROJET SI
 > Un système d’information dans une entreprise comporte différents aspects:
 >> - Fonctionnel
 >> - Technique
@@ -59,7 +65,10 @@
 >> - Sécurité
 >> - Maintenance
 
+---
+
 ### POURQUOI UN PROJET SI
+>
 > - Organisationnelle:
 >> Accompagner un changement ayant un impact:
 >>> *Organisationnel*
@@ -94,7 +103,10 @@
 >>
 >> Faire du gain/ croissance
 
+---
+
 ### ENJEUX ET OBJECTIFS
+>
 > #### ENJEUX
 >> <mark>Economique:</mark>
 >>> L’Investissement engendré par le projet doit apporter des résultats financiers:
@@ -122,6 +134,8 @@
 >>>> Innovation : proposer une nouvelle façon de travailler
 >>>>
 >>>> Performance: améliorer sa productivité et son efficacité
+
+---
 
 ### PARTIES PRENANTES
 > #### DEFINITION
@@ -158,27 +172,27 @@
 >
 > ---
 >
-><dl>
+>><dl>
 >>  <dt>MOA:</dt>
 >>  <dd>Maîtrise d'ouvrage.</dd>
 >>  <dd><em>Entité représentant le besoin client.</em></dd>
-></dl>
+>></dl>
 >
 > ---
 >
-><dl>
+>><dl>
 >>  <dt>AMOA:</dt>
 >>  <dd>Assistant à maîtrise d'ouvrage.</dd>
 >>  <dd><em>Entité éventuellement mandaté par le client pour superviser la réalisation technique.</em></dd>
-></dl>
+>></dl>
 >
 > ---
 >
-><dl>
+>><dl>
 >>  <dt>MOE:</dt>
 >>  <dd>Maîtrise d'œuvre.</dd>
 >>  <dd><em>Entité en charge de la partie technique.</em></dd>
-></dl>
+>></dl>
 
 ### SCHÉMA DIRECTEUR
 
@@ -198,11 +212,11 @@
 > **Le tableau de bord permet de suivre l'état de santé d'un projet grâce à des indicateurs claires et précis sur les différents critères principaux.**
 
 ## E. SMQ
-><dl>
+>><dl>
 >>  <dt>SMQ:</dt>
 >>  <dd>Système de Management de Qualité.</dd>
 >>  <dd><em>Organisation mise en place par une entreprise pour atteindre sa politique et ses objectifs qualité.</em></dd>
-></dl>
+>></dl>
 >
 > ---
 >
@@ -226,8 +240,8 @@
 >
 > ---
 >
-><dl>
+>><dl>
 >>  <dt>PAQ:</dt>
 >>  <dd>Plan d'Assurance Qualité.</dd>
 >>  <dd><em>Standards de qualité mis en place au niveau du projet.</em></dd>
-></dl>
+>></dl>
