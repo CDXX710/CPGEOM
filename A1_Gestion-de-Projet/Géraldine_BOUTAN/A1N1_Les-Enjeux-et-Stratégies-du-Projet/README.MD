@@ -33,6 +33,15 @@
 >  <dd>Assure la création de services qui assurent le bien-être de tous les individus d'une société. Contrairement aux sociétés privées, la finalité principale des entreprises publiques n'est pas la réalisation d'un profit, mais le fait d'assurer un service public.</dd>
 ></dl>
 
+### ORGANIGRAMMES
+
+> <details> 
+>   <summary>Organigramme</summary>
+>
+>   ![Organigramme](organigramme_entreprise_privee.png "Organigramme")
+>
+> </details>
+
 ## B. POURQUOI UN PROJET
 
 ### ENJEUX ET OBJECTIFS
