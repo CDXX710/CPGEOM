@@ -44,11 +44,23 @@
 > 
 > 1. Les pouvoirs publics
 
-> **MOA:** *Maîtrise d'ouvrage* -> *Entité représentant le besoin client.*
+><dl>
+>  <dt>MOA:</dt>
+>  <dd>Maîtrise d'ouvrage.</dd>
+>  <dd>Entité représentant le besoin client.</dd>
+></dl>
 >
-> **AMOA:** *Assistant à maîtrise d'ouvrage* -> *Entité éventuellement mandaté par le client pour superviser la réalisation technique.*
+><dl>
+>  <dt>AMOA:</dt>
+>  <dd>Assistant à maîtrise d'ouvrage.</dd>
+>  <dd>Entité éventuellement mandaté par le client pour superviser la réalisation technique.</dd>
+></dl>
 >
-> **MOE:** *Maîtrise d'œuvre* -> *Entité en charge de la partie technique.*
+><dl>
+>  <dt>MOE:</dt>
+>  <dd>Maîtrise d'œuvre.</dd>
+>  <dd>Entité en charge de la partie technique.</dd>
+></dl>
 
 ### SCHÉMA DIRECTEUR
 
@@ -92,4 +104,8 @@
 >> Un bon SMQ doit:
 >>> 
 >
-> **PAQ:** *Plan d'Assurance Qualité* -> *Standards de qualité mis en place au niveau du projet.*
+><dl>
+>  <dt>PAQ:</dt>
+>  <dd>Plan d'Assurance Qualité.</dd>
+>  <dd>Standards de qualité mis en place au niveau du projet.</dd>
+></dl>
