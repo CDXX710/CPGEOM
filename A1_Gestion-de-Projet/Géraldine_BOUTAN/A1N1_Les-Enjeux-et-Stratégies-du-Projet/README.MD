@@ -48,13 +48,14 @@
 ## B. POURQUOI UN PROJET
 ### DEFINITION D'UN PROJET SI
 > Un système d’information dans une entreprise comporte différents aspects:
-> - Fonctionnel
-> - Technique
+>> - Fonctionnel
+>> - Technique
+>
 > Les SI sont gérés et programmés par différents acteurs à différents niveaux:
-> - Infrastructure
-> - Logicielle
-> - Sécurité
-> - Maintenance
+>> - Infrastructure
+>> - Logicielle
+>> - Sécurité
+>> - Maintenance
 
 
 ### ENJEUX ET OBJECTIFS
