@@ -442,12 +442,12 @@ ainsi les moyens d’atteindre les priorités qu’elle a elle-même définies.
 >> Le SMQ doit correspondre à la réalité de l’organisation de l’entreprise et non constituer
 un système factice, établi en théorie, dans le seul souci de répondre à l’exigence externe
 du client.
->
+>> ---
 >> Il se décine en **sept grands principes**:
 >>> #### 1. Orientation client
 >>>> L’objectif de n’importe quelle entreprise, quel que soit son domaine d’activité, est de satisfaire les attentes de sa clientèle en lui fournissant des produits et services adaptés à ses exigences.
 >>>>> Il s’agit donc d’identifier ses attentes, voire de les anticiper, pour augmenter sa satisfaction et parvenir à terme à le fidéliser
->> ---
+>>> ---
 >>> #### 2. Résponsabilité de direction
 >>>> Au sein du système complexe que représente une organisation, c’est la direction qui est chargée de définir la stratégie à suivre, les objectifs à atteindre et les moyens pour y parvenir.
 >>>> 
@@ -456,7 +456,7 @@ du client.
 >>>>
 >>>> Il doit par ailleurs générer un climat de confiance, basé sur l’encouragement et la reconnaissance.
 >>>>> Des pilotes de processus sont nommés et c’est eux qui dynamiseront la démarche.
->> ---
+>>> ---
 >>> #### 3. Implication du personnel
 >>>>Afin de s’assurer que le personnel est pleinement impliqué dans le projet, il est impératif de trouver des moyens de favoriser et valoriser son engagement.
 >>>>> En d’autres termes, le salarié doit être conscient de la valeur ajoutée que représente sa contribution personnelle, quelle que soit la place qu’il occupe au sein de l’entreprise, indépendamment de son ancienneté ou de son niveau hiérarchique.
