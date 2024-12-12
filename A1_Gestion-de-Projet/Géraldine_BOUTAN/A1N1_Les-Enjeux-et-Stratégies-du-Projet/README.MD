@@ -128,7 +128,6 @@
 >><dl>
 >>  <dt>Partie prenante:</dt>
 >>  <dd>Une personne (ou organisation) impliquée dans le projet, ou qui peut être impactée par celui-ci.</dd>
->>
 >> <dd><em>Elle peut exercer une influence sur le projet.</em></dd>
 >></dl>
 >
@@ -160,9 +159,8 @@
 > ---
 >
 ><dl>
->  <dt>MOA:</dt>
+>>  <dt>MOA:</dt>
 >>  <dd>Maîtrise d'ouvrage.</dd>
->>
 >>  <dd><em>Entité représentant le besoin client.</em></dd>
 >
 ></dl>
@@ -179,9 +177,8 @@
 > ---
 >
 ><dl>
->  <dt>MOE:</dt>
+>>  <dt>MOE:</dt>
 >>  <dd>Maîtrise d'œuvre.</dd>
->
 >>  <dd><em>Entité en charge de la partie technique.</em></dd>
 >
 ></dl>
@@ -205,7 +202,7 @@
 
 ## E. SMQ
 ><dl>
->  <dt>SMQ:</dt>
+>>  <dt>SMQ:</dt>
 >>  <dd>Système de Management de Qualité.</dd>
 >>
 >>  <dd><em>Organisation mise en place par une entreprise pour atteindre sa politique et ses objectifs qualité.</em></dd>
@@ -235,9 +232,8 @@
 > ---
 >
 ><dl>
->  <dt>PAQ:</dt>
+>>  <dt>PAQ:</dt>
 >>  <dd>Plan d'Assurance Qualité.</dd>
 >>
 >>  <dd><em>Standards de qualité mis en place au niveau du projet.</em></dd>
->
 ></dl>
