@@ -77,7 +77,7 @@
 >>> Interne ou Externe, le SWOT ***ne peut pas*** être communiqué à tous les acteurs. 
 
 > <details> 
->   <summary>Exercice du 11/12/24 sur le SWOT</summary>
+>   <summary><em>SPOILER</em></summary>
 >
 >   ![Exercice du 11/12/24 sur le SWOT](exo_swot-11-12-24.png "Exercice SWOT 11/12/24")
 >
