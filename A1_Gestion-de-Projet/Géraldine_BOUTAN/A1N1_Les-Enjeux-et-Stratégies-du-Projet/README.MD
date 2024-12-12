@@ -52,6 +52,8 @@
 >   ![Organigramme Classique Public](organigramme_classique_pub.png "Organigramme Classique Public")
 > </details>
 
+---
+
 # B. POURQUOI UN PROJET
 > ## DEFINITION D'UN PROJET SI
 > Un système d’information dans une entreprise comporte différents aspects:
