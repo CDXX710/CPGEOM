@@ -17,11 +17,21 @@
 ---
 
 ## A. ORGANISATION DES ENTREPRISES
-
-<dl>
-  <dt>Entreprise</dt>
-  <dd>Unité économique, juridiquement autonome dont la fonction principale est de produire des biens ou des services pour un marché.</dd>
-</dl>
+### DEFINITION
+><dl>
+>  <dt>Entreprise</dt>
+>  <dd>Unité économique, juridiquement autonome dont la fonction principale est de produire des biens ou des services pour un marché.</dd>
+></dl>
+>
+><dl>
+>  <dt>Entreprise Privée</dt>
+>  <dd>Produit ou vend des biens ou des services avec pour finalité de réaliser des bénéfices tout en cherchant à assurer sa pérennité, prône la compétitivité et très attachée à sa réputation.</dd>
+></dl>
+>
+><dl>
+>  <dt>Entreprise Public</dt>
+>  <dd>Assure la création de services qui assurent le bien-être de tous les individus d'une société. Contrairement aux sociétés privées, la finalité principale des entreprises publiques n'est pas la réalisation d'un profit, mais le fait d'assurer un service public.</dd>
+></dl>
 
 ## B. POURQUOI UN PROJET
 
