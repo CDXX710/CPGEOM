@@ -3,6 +3,8 @@
 ### [📝 [PDF] Trame Charte Projet](trame_charte_projet.pdf)
 
 ### [🧪 [Markdown] Exercice QQQOPCC](EXO.MD)
+
+### [🧪 [PDF] TP Charte Projet]()
 ---
 ### [↺ Retour](../README.MD)
 ---
