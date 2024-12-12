@@ -17,6 +17,9 @@
 ---
 
 ## A. ORGANISATION DES ENTREPRISES
+Entreprise
+: Unité économique, juridiquement autonome dont la fonction principale
+est de produire des biens ou des services pour un marché.
 
 ## B. POURQUOI UN PROJET
 
