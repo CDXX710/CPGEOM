@@ -47,19 +47,19 @@
 ><dl>
 >  <dt>MOA:</dt>
 >  <dd>Maîtrise d'ouvrage.</dd>
->  <dd>  Entité représentant le besoin client.</dd>
+>  <dd><em>Entité représentant le besoin client.</em></dd>
 ></dl>
 >
 ><dl>
 >  <dt>AMOA:</dt>
 >  <dd>Assistant à maîtrise d'ouvrage.</dd>
->  <dd>  Entité éventuellement mandaté par le client pour superviser la réalisation technique.</dd>
+>  <dd><em>Entité éventuellement mandaté par le client pour superviser la réalisation technique.</em></dd>
 ></dl>
 >
 ><dl>
 >  <dt>MOE:</dt>
 >  <dd>Maîtrise d'œuvre.</dd>
->  <dd>  Entité en charge de la partie technique.</dd>
+>  <dd><em>Entité en charge de la partie technique.</em></dd>
 ></dl>
 
 ### SCHÉMA DIRECTEUR
