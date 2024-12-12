@@ -1,8 +1,8 @@
-### [↳ [PDF] Support de Cours]()
+### [📝 [PDF] Support de Cours]()
 
-### [↳ [PDF] Trame Charte Projet](trame_charte_projet.pdf)
+### [📝 [PDF] Trame Charte Projet](trame_charte_projet.pdf)
 
-### [↳ [Markdown] Exo QQQOPCC](EXO.MD)
+### [📝 [Markdown] Exo QQQOPCC](EXO.MD)
 ---
 ### [↺ Retour](../README.MD)
 ---
