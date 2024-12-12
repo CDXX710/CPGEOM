@@ -51,6 +51,8 @@
 >> - Fonctionnel
 >> - Technique
 >
+> ---
+>
 > Les SI sont gérés et programmés par différents acteurs à différents niveaux:
 >> - Infrastructure
 >> - Logicielle
@@ -73,10 +75,14 @@
 >>
 >> Améliorer la production ou toute étape de conception d’un produit (PLM, supply chain (optimisation des stocks…)
 >
+> ---
+>
 > - Humaine:
 >> Favoriser la collaboration et le partage de connaissances
 >>
 >> Améliorer des conditions de travail (éviter des taches trop admin pour concentrer les personnes sur des taches à plus forte valeur ajoutée)
+>
+> ---
 >
 > - Economique:
 >> Optimiser/Gagner en performance
@@ -91,6 +97,8 @@
 >>>>
 >>>> Réduction de coût de réalisation d’une ou de plusieurs taches – économie conséquente
 >>
+>> ---
+>>
 >> <mark>Humain:</mark>
 >>>Le projet peut influer sur l’organisation de l’entreprise et donc toucher l’humain:
 >>>>
@@ -99,6 +107,8 @@
 >>>> Optimisation des ressources nécessaires à la réalisation d’une tâche (pluridisciplinarité, tache à forte valeur ajoutée
 >>>>
 >>>>Faciliter les traitements entre différents services ou organisations
+>>
+>> ---
 >>
 >> <mark>Technique:</mark>
 >>> Le projet va permettre d’améliorer son positionnement sur un marché ou en interne:
