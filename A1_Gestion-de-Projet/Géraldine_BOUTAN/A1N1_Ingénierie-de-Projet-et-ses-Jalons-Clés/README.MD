@@ -1,6 +1,6 @@
-### [↳ Support PDF]()
+### [↳ [PDF] Support de Cours]()
 
-### [↳ Trame Charte Projet](trame_charte_projet.pdf)
+### [↳ [PDF] Trame Charte Projet](trame_charte_projet.pdf)
 
 ### [↳ Exo QQQOPCC](EXO.MD)
 ---
