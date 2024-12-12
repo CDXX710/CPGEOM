@@ -1,4 +1,4 @@
-### [↳ [PDF] Support de Cours](A1N1_Enjeux-et-Strategies.pdf)
+### [📝 [PDF] Support de Cours](A1N1_Enjeux-et-Strategies.pdf)
 ---
 ### [↺ Retour](../README.MD)
 ---
