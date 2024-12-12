@@ -85,13 +85,13 @@
 
 ### ENJEUX ET OBJECTIFS
 > #### ENJEUX
->> Economique:
+>> <mark>Economique:</mark>
 >>> L’Investissement engendré par le projet doit apporter des résultats financiers:
 >>>> Augmentation de Chiffre d’Affaires (CA) – gain financier
 >>>>
 >>>> Réduction de coût de réalisation d’une ou de plusieurs taches – économie conséquente
 >>
->> Humain:
+>> <mark>Humain:</mark>
 >>>Le projet peut influer sur l’organisation de l’entreprise et donc toucher l’humain:
 >>>>
 >>>> Bouleversement dans l’organisation
@@ -100,7 +100,7 @@
 >>>>
 >>>>Faciliter les traitements entre différents services ou organisations
 >>
->> Technique:
+>> <mark>Technique:</mark>
 >>> Le projet va permettre d’améliorer son positionnement sur un marché ou en interne:
 >>>> Compétitivité : réussir à réaliser mieux, dans un meilleur délai à un meilleur prix
 >>>>
