@@ -193,18 +193,18 @@
 >>  <dd>Maîtrise d'œuvre.</dd>
 >>  <dd><em>Entité en charge de la partie technique.</em></dd>
 >></dl>
->
-> ---
+
+---
 
 ### SCHÉMA DIRECTEUR
-> 
->
-> ---
+
+
+---
 
 ### DIMENSION / COMPLEXITÉ
-> 
->
-> ---
+
+
+---
 
 ## C. LA GOUVERNANCE
 
@@ -212,23 +212,23 @@
 ---
 
 ### RÔLES
-> 
->
-> ---
+
+
+---
 
 ### RÉUNIONS
-> 
->
-> ---
+
+
+---
 
 ## D. PILOTAGE DU PROJET
 
 ---
 
 ### KPI
-> 
->
-> ---
+
+
+---
 
 ### TABLEAU DE BORD
 > **Le tableau de bord permet de suivre l'état de santé d'un projet grâce à des indicateurs claires et précis sur les différents critères principaux.**
