@@ -2,7 +2,7 @@
 
 ### [↳ [PDF] Trame Charte Projet](trame_charte_projet.pdf)
 
-### [↳ Exo QQQOPCC](EXO.MD)
+### [↳ [Markdown] Exo QQQOPCC](EXO.MD)
 ---
 ### [↺ Retour](../README.MD)
 ---
