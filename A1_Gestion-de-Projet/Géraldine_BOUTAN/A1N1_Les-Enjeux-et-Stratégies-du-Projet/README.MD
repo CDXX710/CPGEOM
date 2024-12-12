@@ -18,20 +18,20 @@
 
 ## A. ORGANISATION DES ENTREPRISES
 ### DEFINITION
-><dl>
->  <dt>Entreprise:</dt>
->  <dd>Unité économique, juridiquement autonome dont la fonction principale est de produire des biens ou des services pour un marché.</dd>
-></dl>
+>><dl>
+>>  <dt>Entreprise:</dt>
+>>  <dd>Unité économique, juridiquement autonome dont la fonction principale est de produire des biens ou des services pour un marché.</dd>
+>></dl>
 >
-><dl>
->  <dt>Entreprise Privée:</dt>
->  <dd>Produit ou vend des biens ou des services avec pour finalité de réaliser des bénéfices tout en cherchant à assurer sa pérennité, prône la compétitivité et très attachée à sa réputation.</dd>
-></dl>
+>><dl>
+>>  <dt>Entreprise Privée:</dt>
+>>  <dd>Produit ou vend des biens ou des services avec pour finalité de réaliser des bénéfices tout en cherchant à assurer sa pérennité, prône la compétitivité et très attachée à sa réputation.</dd>
+>></dl>
 >
-><dl>
->  <dt>Entreprise Public:</dt>
->  <dd>Assure la création de services qui assurent le bien-être de tous les individus d'une société. Contrairement aux sociétés privées, la finalité principale des entreprises publiques n'est pas la réalisation d'un profit, mais le fait d'assurer un service public.</dd>
-></dl>
+>><dl>
+>>  <dt>Entreprise Public:</dt>
+>>  <dd>Assure la création de services qui assurent le bien-être de tous les individus d'une société. Contrairement aux sociétés privées, la finalité principale des entreprises publiques n'est pas la réalisation d'un profit, mais le fait d'assurer un service public.</dd>
+>></dl>
 
 ### ORGANIGRAMMES
 
@@ -162,7 +162,6 @@
 >>  <dt>MOA:</dt>
 >>  <dd>Maîtrise d'ouvrage.</dd>
 >>  <dd><em>Entité représentant le besoin client.</em></dd>
->
 ></dl>
 >
 > ---
@@ -171,7 +170,6 @@
 >>  <dt>AMOA:</dt>
 >>  <dd>Assistant à maîtrise d'ouvrage.</dd>
 >>  <dd><em>Entité éventuellement mandaté par le client pour superviser la réalisation technique.</em></dd>
->
 ></dl>
 >
 > ---
@@ -180,7 +178,6 @@
 >>  <dt>MOE:</dt>
 >>  <dd>Maîtrise d'œuvre.</dd>
 >>  <dd><em>Entité en charge de la partie technique.</em></dd>
->
 ></dl>
 
 ### SCHÉMA DIRECTEUR
@@ -204,9 +201,7 @@
 ><dl>
 >>  <dt>SMQ:</dt>
 >>  <dd>Système de Management de Qualité.</dd>
->>
 >>  <dd><em>Organisation mise en place par une entreprise pour atteindre sa politique et ses objectifs qualité.</em></dd>
->
 ></dl>
 >
 > ---
@@ -227,13 +222,12 @@
 >>> 1. Management des relations avec les parties intéressées
 >>
 >> Un bon SMQ doit:
->>> 
+>>> fff
 >
 > ---
 >
 ><dl>
 >>  <dt>PAQ:</dt>
 >>  <dd>Plan d'Assurance Qualité.</dd>
->>
 >>  <dd><em>Standards de qualité mis en place au niveau du projet.</em></dd>
 ></dl>
