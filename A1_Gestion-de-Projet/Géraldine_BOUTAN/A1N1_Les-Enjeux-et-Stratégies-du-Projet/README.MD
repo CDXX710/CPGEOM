@@ -73,6 +73,7 @@
 >  <dd>Système de Management de Qualité.</dd>
 >  <dd>Organisation mise en place par une entreprise pour atteindre sa politique et ses objectifs qualité.</dd>
 ></dl>
+>>
 >> Il se décine en **sept grands principes**:
 >>> 1. Orientation client
 >>>
