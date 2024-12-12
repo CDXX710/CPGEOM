@@ -14,7 +14,7 @@
 #### [➤&nbsp;C. La Gouvernance](README.MD#c-la-gouvernance-1)
 #### [➤&nbsp;D. Pilotage du projet](README.MD#d-pilotage-du-projet-1)
 #### [➤&nbsp;E. SMQ](README.MD#e-smq-1)
-#### [➤&nbsp;F. Procédures d'Achats](README.MD#f-procedures-achats)
+#### [➤&nbsp;F. Procédures d'Achats](README.MD#f-procedures-dachats)
 #### [➤&nbsp;G. A Retenir](README.MD#g-a-retenir)
 ---
 
