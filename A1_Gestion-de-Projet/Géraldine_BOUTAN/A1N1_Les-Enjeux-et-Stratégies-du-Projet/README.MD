@@ -57,8 +57,56 @@
 >> - Sécurité
 >> - Maintenance
 
+### POURQUOI UN PROJET SI
+> - Organisationnelle:
+>> Accompagner un changement ayant un impact:
+>>> Organisationnel
+>>>
+>>> Humain
+>>>
+>>> Technique
+>>
+>> Harmoniser des processus /des organisations (entreprises publiques, croissance externe…)
+>
+> - Industrielle:
+>> Innover, apporter une solution nouvelle sur le marché
+>>
+>> Améliorer la production ou toute étape de conception d’un produit (PLM, supply chain (optimisation des stocks…)
+>
+> - Humaine:
+>> Favoriser la collaboration et le partage de connaissances
+>>
+>> Améliorer des conditions de travail (éviter des taches trop admin pour concentrer les personnes sur des taches à plus forte valeur ajoutée)
+>
+> - Economique:
+>> Optimiser/Gagner en performance
+>>
+>> Faire du gain/ croissance
 
 ### ENJEUX ET OBJECTIFS
+> #### ENJEUX
+>> Economique:
+>>> L’Investissement engendré par le projet doit apporter des résultats financiers:
+>>>> Augmentation de Chiffre d’Affaires (CA) – gain financier
+>>>>
+>>>> Réduction de coût de réalisation d’une ou de plusieurs taches – économie conséquente
+>>
+>> Humain:
+>>>Le projet peut influer sur l’organisation de l’entreprise et donc toucher l’humain:
+>>>>
+>>>> Bouleversement dans l’organisation
+>>>>
+>>>> Optimisation des ressources nécessaires à la réalisation d’une tâche (pluridisciplinarité, tache à forte valeur ajoutée
+>>>>
+>>>>Faciliter les traitements entre différents services ou organisations
+>>
+>> Technique:
+>>> Le projet va permettre d’améliorer son positionnement sur un marché ou en interne:
+>>>> Compétitivité : réussir à réaliser mieux, dans un meilleur délai à un meilleur prix
+>>>>
+>>>> Innovation : proposer une nouvelle façon de travailler
+>>>>
+>>>> Performance: améliorer sa productivité et son efficacité
 
 ### PARTIES PRENANTES
 > 1. Le commanditaire
