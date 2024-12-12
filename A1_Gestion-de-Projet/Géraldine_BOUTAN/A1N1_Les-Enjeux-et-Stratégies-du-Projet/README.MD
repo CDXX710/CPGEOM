@@ -20,7 +20,7 @@
 
 <dl>
   <dt>Entreprise</dt>
-    <dd>Unité économique, juridiquement autonome dont la fonction principale est de produire des biens ou des services pour un marché.</dd>
+  <dd>Unité économique, juridiquement autonome dont la fonction principale est de produire des biens ou des services pour un marché.</dd>
 </dl>
 
 ## B. POURQUOI UN PROJET
@@ -47,19 +47,19 @@
 ><dl>
 >  <dt>MOA:</dt>
 >  <dd>Maîtrise d'ouvrage.</dd>
->    <dd>Entité représentant le besoin client.</dd>
+>  <dd>  Entité représentant le besoin client.</dd>
 ></dl>
 >
 ><dl>
 >  <dt>AMOA:</dt>
 >  <dd>Assistant à maîtrise d'ouvrage.</dd>
->    <dd>Entité éventuellement mandaté par le client pour superviser la réalisation technique.</dd>
+>  <dd>  Entité éventuellement mandaté par le client pour superviser la réalisation technique.</dd>
 ></dl>
 >
 ><dl>
 >  <dt>MOE:</dt>
 >  <dd>Maîtrise d'œuvre.</dd>
->    <dd>Entité en charge de la partie technique.</dd>
+>  <dd>  Entité en charge de la partie technique.</dd>
 ></dl>
 
 ### SCHÉMA DIRECTEUR
@@ -83,7 +83,7 @@
 ><dl>
 >  <dt>SMQ:</dt>
 >  <dd>Système de Management de Qualité.</dd>
->    <dd>Organisation mise en place par une entreprise pour atteindre sa politique et ses objectifs qualité.</dd>
+>  <dd>  Organisation mise en place par une entreprise pour atteindre sa politique et ses objectifs qualité.</dd>
 ></dl>
 >
 >> Il se décine en **sept grands principes**:
@@ -107,5 +107,5 @@
 ><dl>
 >  <dt>PAQ:</dt>
 >  <dd>Plan d'Assurance Qualité.</dd>
->    <dd>Standards de qualité mis en place au niveau du projet.</dd>
+>  <dd>  Standards de qualité mis en place au niveau du projet.</dd>
 ></dl>
