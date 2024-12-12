@@ -62,9 +62,9 @@
 ### POURQUOI UN PROJET SI
 > - Organisationnelle:
 >> Accompagner un changement ayant un impact:
->>> Organisationnel
+>>> *Organisationnel*
 >>>
->>> Humain
+>>> *Humain*
 >>>
 >
 > ---
@@ -72,6 +72,8 @@
 > - Technique:
 >>
 >> Harmoniser des processus /des organisations (entreprises publiques, croissance externe…)
+>
+> ---
 >
 > - Industrielle:
 >> Innover, apporter une solution nouvelle sur le marché
