@@ -36,12 +36,15 @@
 ### ORGANIGRAMMES
 
 > <details> 
->   <summary>Organigramme</summary>
+>   <summary><em>SPOILER</em></summary>
 >
 >   ![Organigramme](organigramme_entreprise_privee.png "Organigramme")
 >
+>   ![Organigramme Classique Privé](organigramme_classique_prv.png "Organigramme Classique Privé")
+>
+>   ![Organigramme Classique Public](organigramme_classique_pub.png "Organigramme Classique Public")
 > </details>
-
+organigramme_classique_
 ## B. POURQUOI UN PROJET
 
 ### ENJEUX ET OBJECTIFS
