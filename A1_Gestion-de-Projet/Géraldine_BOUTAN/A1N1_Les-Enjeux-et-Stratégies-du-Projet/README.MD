@@ -373,21 +373,98 @@
 
 # D. PILOTAGE DU PROJET
 > ## KPI
-> Un tableau de bord est un outil d’aide à la décision qui permet grâce à la mise en place d’indicateurs clés (KPI) de piloter efficacement un projet.
-> 
-> KPI signifie Key Performance Indicator en anglais.
+> ### CONTEXTE
+>> Un tableau de bord est un outil d’aide à la décision qui permet grâce à la mise en place d’indicateurs clés (KPI) de piloter efficacement un projet.
+>>
+>>> *KPI signifie Key Performance Indicator en anglais.*
+>>
 >> Aussi appelés indicateurs clés de performance (ICP), ils sont très utilisés dans le suivi de projet et permettent de mesurer les performances de vos projets.
->
+>>
 >> Les KPI doivent être définis conjointement par le chef de projet et son équipe avant de démarrer le projet.
->
->> Pour bien définir des KPI:
->>> - Il est associé à un objectif précis
->>> - Il implique forcément une décision
->>> - Il n’est jamais muet
->>> - Pour être pertinent, il doit être simple
+>>
+>>> Pour bien définir des KPI:
+>>>> - Il est associé à un objectif précis
+>>>> - Il implique forcément une décision
+>>>> - Il n’est jamais muet
+>>>> - Pour être pertinent, il doit être simple
+>>
+> ---
+> ## TYPES DE KPI
+>> ### KPI DE DELAIS
+>>> ##### 1. Ecart de durée
+>>>> Cet indicateur permet de mesurer si une tâche est plus longue à accomplir que ce qui avait été initialement prévu.
+>>>>> On l’obtient en calculant (durée réelle – durée initiale) / durée initiale.
+>>>>
+>>>> Vous pouvez appliquer cet indicateur à la durée d’une tâche ou d’une phase, mais aussi à la durée totale du projet.
+>>>
+>>> ---
+>>>
+>>> ##### 2. Ecart de délai
+>>>> Ce KPI vous montre si votre projet est en avance ou en retard sur le budget ou le temps prévu au départ.
+>>>>> Calcul: budget ou temps initialement prévu – budget ou temps actuellement utilisé
+>>>>
+>>>> Si le résultat est négatif, cela signifie que vous avez réussi à accomplir plus que prévu, et qu’il vous reste 
+donc un plus gros budget à dépenser sur les tâches restantes.
+>>>
+>>> ---
+>>>
+>>> #### 3. Taux de dépassement
+>>>> Cet indicateur vous donne un pourcentage du dépassement de temps ou d’argent pour une tâche donnée ou 
+pour tout le projet.
+>>>>> Calcul: (dépassements / coûts ou durées prévus) x 100
+>>
+>> ---
+>>
+>> ### KPI DE COUTS
+>>> #### 1. Ecart de coût du projet
+>>>> Grâce à cet indicateur, vous mesurez si le coût effectif du projet est 
+différent du coût prévu initialement.
+>>>>> Calcul: (coût réel – coût prévisionnel) / coût prévisionnel
+>>>
+>>> ---
+>>>
+>>> #### 2. Coût actuel du projet
+>>>> Ce KPI vous indique combien d’argent vous avez déjà dépensé pour le 
+projet.
+>>>>> Calcul: Additionnez simplement toutes les dépenses liées au projet jusqu’à ce jour.
+>>
+>> ---
+>>
+>> ### KPI DE RESSOURCES
+>>> Cet indicateur permet de calculer la productivité des ressources humaines qui travaillent sur le projet.
+>>>>
+>>> Ce KPI se calcule avec l’unité de mesure jour-homme qui correspond au travail d’une personne pendant une journée. Par exemple, si un projet nécessite 20 jours-hommes, cela signifie le travail d’un homme pendant 20 jours, ou le travail de 20 hommes pendant un jour, mais encore 10 hommes pendant 2 jours ou 5 hommes pendant 4 jours, et ainsi de suite.
+>>>> Calcul : nombre de jours-hommes consacrés x % de réalisation de la tâche
+>>>
+>>>> On compare le résultat obtenu au nombre de jours-hommes qui était prévu pour atteindre ce même pourcentage de réalisation de la tâche. Cela vous indique si vous êtes en avance, en retard du dans les délais par rapport au planning.
+>>
+>> ---
+>>
+>> ### KPI EFFICACITE
+>>> #### 1. Pourcentage des tâches réalisées
+>>>> Pour obtenir une rapide vue d’ensemble des performances de votre 
+projet, créez un KPI qui vous donne le pourcentage des tâches 
+réalisées.
+>>>
+>>> ---
+>>>
+>>> #### 2. Heures de travail planifiées vs situation actuelle
+>>>> Ce KPI vous indique le nombre d’heures de travail planifiées pour le 
+projet comparé au temps réellement passé. Vous pouvez utiliser cet 
+indicateur à différents moments et sur différentes phases du projet.
+>>>>> Si la quantité d’heures passées dépasse largement ce qui était prévu, 
+il est temps de réévaluer le temps planifié sur la totalité du projet.
 >
 > ---
 >
+> ## KPI: A RETENIR
+>>  La mise en place de KPI vous permet de juger l’évolution de votre projet, d’identifier rapidement les écarts par rapport à vos objectifs et de prendre les mesures qui s’imposent.
+>>
+>> Cette liste n’est pas exhaustive, il en existe d’autres, et vous pouvez aussi créer vos propres indicateurs.
+>>> Il est inutile d’utiliser tous les indicateurs qui existent. Choisissez-en 5 à 10 que vous et votre équipe comprenez et maîtrisez. Bien utiliser vos KPI est la clé du succès de votre projet.
+
+---
+
 > ## INDICATEURS
 > Il s’agit d’une information (issue d’une mesure) qui aide à évaluer une situation et à prendre une décision adaptée. Un indicateur doit être réaliste, mesurable et défini dans le temps.
 > 
