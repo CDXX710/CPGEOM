@@ -435,60 +435,72 @@
 >
 >> On parle de système, car le SMQ (Système de Management de la Qualité) englobe des
 acteurs, des activités et matériels divers dans l’entreprise de manière simultanée et interdépendantes pour atteindre l’objectif visé en lien avec la satisfaction du client final.
->>
+>
 >> Ce système est coordonné et piloté par la ligne managériale de l’entreprise, qui se donne
 ainsi les moyens d’atteindre les priorités qu’elle a elle-même définies.
->>
+>
 >> Le SMQ doit correspondre à la réalité de l’organisation de l’entreprise et non constituer
 un système factice, établi en théorie, dans le seul souci de répondre à l’exigence externe
 du client.
+>
+> ---
+>
+> Il se décine en **sept grands principes**:
+>> #### 1. Orientation client
+>>> L’objectif de n’importe quelle entreprise, quel que soit son domaine d’activité, est de satisfaire les attentes de sa clientèle en lui fournissant des produits et services adaptés à ses exigences.
+>>>> Il s’agit donc d’identifier ses attentes, voire de les anticiper, pour augmenter sa satisfaction et parvenir à terme à le fidéliser
+>> ---
+>> #### 2. Résponsabilité de direction
+>>> Au sein du système complexe que représente une organisation, c’est la direction qui est chargée de définir la stratégie à suivre, les objectifs à atteindre et les moyens pour y parvenir.
+>>> 
+>>> C’est aussi à elle qu’incombe la lourde tâche de créer les conditions favorisant l’amélioration.
+>>>> Pour ce faire, le leader doit faire en sorte de communiquer les objectifs de la manière la plus claire possible et de partager les valeurs de l’entreprise avec ses collaborateurs, en montrant l’exemple.
+>>>
+>>> Il doit par ailleurs générer un climat de confiance, basé sur l’encouragement et la reconnaissance.
+>>>> Des pilotes de processus sont nommés et c’est eux qui dynamiseront la démarche.
 >>
 >> ---
 >>
->> Il se décine en **sept grands principes**:
->>> #### 1. Orientation client
->>>> L’objectif de n’importe quelle entreprise, quel que soit son domaine d’activité, est de satisfaire les attentes de sa clientèle en lui fournissant des produits et services adaptés à ses exigences.
->>>>> Il s’agit donc d’identifier ses attentes, voire de les anticiper, pour augmenter sa satisfaction et parvenir à terme à le fidéliser
->>> ---
->>> #### 2. Résponsabilité de direction
->>>> Au sein du système complexe que représente une organisation, c’est la direction qui est chargée de définir la stratégie à suivre, les objectifs à atteindre et les moyens pour y parvenir.
->>>> 
->>>> C’est aussi à elle qu’incombe la lourde tâche de créer les conditions favorisant l’amélioration.
->>>>> Pour ce faire, le leader doit faire en sorte de communiquer les objectifs de la manière la plus claire possible et de partager les valeurs de l’entreprise avec ses collaborateurs, en montrant l’exemple.
->>>>
->>>> Il doit par ailleurs générer un climat de confiance, basé sur l’encouragement et la reconnaissance.
->>>>> Des pilotes de processus sont nommés et c’est eux qui dynamiseront la démarche.
->>> ---
->>> #### 3. Implication du personnel
->>>>Afin de s’assurer que le personnel est pleinement impliqué dans le projet, il est impératif de trouver des moyens de favoriser et valoriser son engagement.
->>>>> En d’autres termes, le salarié doit être conscient de la valeur ajoutée que représente sa contribution personnelle, quelle que soit la place qu’il occupe au sein de l’entreprise, indépendamment de son ancienneté ou de son niveau hiérarchique.
->>>>
->>>> Il est également nécessaire de vérifier que chacun dispose des habilitations et des compétences requises pour réaliser les tâches qui lui sont confiées, au risque de compromettre le but recherché.
+>> #### 3. Implication du personnel
+>>>Afin de s’assurer que le personnel est pleinement impliqué dans le projet, il est impératif de trouver des moyens de favoriser et valoriser son engagement.
+>>>> En d’autres termes, le salarié doit être conscient de la valeur ajoutée que représente sa contribution personnelle, quelle que soit la place qu’il occupe au sein de l’entreprise, indépendamment de son ancienneté ou de son niveau hiérarchique.
+>>>
+>>> Il est également nécessaire de vérifier que chacun dispose des habilitations et des compétences requises pour réaliser les tâches qui lui sont confiées, au risque de compromettre le but recherché.
 >>
->>> #### 4. Approche processus
->>>> Ce principe insiste sur le fait que les activités de l’entreprise doivent être envisagées comme autant de processus corrélés entre eux.
->>>>
->>>> L’objectif est ici de mettre en exergue le cheminement menant à un résultat observé, afin de le comprendre et d’en dégager plus facilement des axes d’amélioration.
->>>>
->>>> En agissant de cette manière, l’organisation renforce la cohérence et l’efficacité de son système, sa capacité à gérer les risques, et par la même, la confiance que sa clientèle porte en elle.
+>> ---
 >>
->>> #### 5. Amélioration
->>>> Pour rester compétitive et performante dans un contexte économique en constante évolution, une
+>> #### 4. Approche processus
+>>> Ce principe insiste sur le fait que les activités de l’entreprise doivent être envisagées comme autant de processus corrélés entre eux.
+>>>
+>>> L’objectif est ici de mettre en exergue le cheminement menant à un résultat observé, afin de le comprendre et d’en dégager plus facilement des axes d’amélioration.
+>>>
+>>> En agissant de cette manière, l’organisation renforce la cohérence et l’efficacité de son système, sa capacité à gérer les risques, et par la même, la confiance que sa clientèle porte en elle.
+>>
+>> ---
+>>
+>> #### 5. Amélioration
+>>> Pour rester compétitive et performante dans un contexte économique en constante évolution, une
 organisation doit elle-même évoluer.
->>>>
->>>> C’est le fameux principe d’amélioration continue, qui va de pair avec la notion de qualité et trouve par exemple son application dans le cycle PDCA ou roue de Deming.
->>>>
->>>> Pour entrer en résonance avec ce 5e principe, l’entreprise doit rechercher les opportunités d’améliorations partout où elles se trouvent, qu’elles soient appliquées par rupture ou de manière progressive, et inscrire l’effort d’innovation dans la culture de l’entreprise afin d’impliquer les collaborateurs, à tous les étages de la hiérarchie.
+>>>
+>>> C’est le fameux principe d’amélioration continue, qui va de pair avec la notion de qualité et trouve par exemple son application dans le cycle PDCA ou roue de Deming.
+>>>
+>>> Pour entrer en résonance avec ce 5e principe, l’entreprise doit rechercher les opportunités d’améliorations partout où elles se trouvent, qu’elles soient appliquées par rupture ou de manière progressive, et inscrire l’effort d’innovation dans la culture de l’entreprise afin d’impliquer les collaborateurs, à tous les étages de la hiérarchie.
 >>
->>> #### 6. Prise de décision fondée sur des preuves
->>>>Face au degré d’incertitude parfois élevé que peut impliquer la prise de décision, l’organisation doit se tourner vers des sources de données et preuves fiables, par le biais des indicateurs clés de performances par exemple, pour pouvoir poser des actions en toute connaissance de cause.
->>>>
->>>> De plus, ces différents éléments doivent être analysés de manière objective afin d’éviter les mauvaises interprétations qui pourraient conduire à un choix malencontreux.
+>> ---
 >>
->>> #### 7. Management des relations avec les parties intéressées
->>>> Les « parties intéressées » correspondent aux divers acteurs avec lesquels l’entreprise est amenée à collaborer au quotidien, notamment ses fournisseurs, prestataires et autres partenaires commerciaux.
->>>>> Concrètement, si elle veut améliorer ses performances, les conserver dans le temps et répondre aux attentes de ses clients, elle doit soigner ces relations professionnelles en partageant par exemple les informations utiles de manière adéquate ou mettre en place des stratégies d’amélioration de façon conjointe.
+>> #### 6. Prise de décision fondée sur des preuves
+>>>Face au degré d’incertitude parfois élevé que peut impliquer la prise de décision, l’organisation doit se tourner vers des sources de données et preuves fiables, par le biais des indicateurs clés de performances par exemple, pour pouvoir poser des actions en toute connaissance de cause.
+>>>
+>>> De plus, ces différents éléments doivent être analysés de manière objective afin d’éviter les mauvaises interprétations qui pourraient conduire à un choix malencontreux.
 >>
+>> ---
+>>
+>> #### 7. Management des relations avec les parties intéressées
+>>> Les « parties intéressées » correspondent aux divers acteurs avec lesquels l’entreprise est amenée à collaborer au quotidien, notamment ses fournisseurs, prestataires et autres partenaires commerciaux.
+>>>> Concrètement, si elle veut améliorer ses performances, les conserver dans le temps et répondre aux attentes de ses clients, elle doit soigner ces relations professionnelles en partageant par exemple les informations utiles de manière adéquate ou mettre en place des stratégies d’amélioration de façon conjointe.
+>
+> ---
+>
 > Un bon SMQ **doit**:
 >>> Etre adapté précisément à la culture de l’entreprise, à son
 contexte, ses services, ses managers, ses produits… 
@@ -497,23 +509,23 @@ contexte, ses services, ses managers, ses produits…
 >>
 >> En suivant consciencieusement les fondamentaux du management de la qualité, l’entreprise ou
 l’organisation est en mesure d’accroître sa rentabilité, sa stabilité financière et assurer sa création de valeur.
->
-> ---
->
->><dl>
->>  <dt>PAQ:</dt>
->>  <dd>Plan d'Assurance Qualité.</dd>
->>  <dd><em>Standards de qualité mis en place au niveau du projet.</em></dd>
->></dl>
+
+---
+
+><dl>
+>  <dt>PAQ:</dt>
+>  <dd>Plan d'Assurance Qualité.</dd>
+>  <dd><em>Standards de qualité mis en place au niveau du projet.</em></dd>
+></dl>
 
 ---
 
 # D. A RETENIR
-> Un projet SI:
->> - Répond à un besoin économique, humain ou industriel de l’entreprise
->> - S’intègre dans une stratégie SI à travers un schéma directeur
->> - Implique un ensemble de parties prenantes
->> - Est piloté / financé par la MOA, assistée ou non d’une AMOA
->> - Est réalisé par la MOE
->> - Est piloté grâce à la gouvernance et la mise en place d’indicateurs
->> - Répond à des exigences qualité de l’entreprise adaptées dans un PAQ
+> ### UN PROJET SI:
+>> #### - Répond à un besoin économique, humain ou industriel de l’entreprise
+>> #### - S’intègre dans une stratégie SI à travers un schéma directeur
+>> #### - Implique un ensemble de parties prenantes
+>> #### - Est piloté / financé par la MOA, assistée ou non d’une AMOA
+>> #### - Est réalisé par la MOE
+>> #### - Est piloté grâce à la gouvernance et la mise en place d’indicateurs
+>> #### - Répond à des exigences qualité de l’entreprise adaptées dans un PAQ
