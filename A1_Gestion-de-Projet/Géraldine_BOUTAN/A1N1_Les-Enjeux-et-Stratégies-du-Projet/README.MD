@@ -66,7 +66,10 @@
 >>>
 >>> Humain
 >>>
->>> Technique
+>
+> ---
+>
+> - Technique:
 >>
 >> Harmoniser des processus /des organisations (entreprises publiques, croissance externe…)
 >
@@ -134,18 +137,24 @@
 > 1. Les fournisseurs
 > 
 > 1. Les pouvoirs publics
-
+>
+> ---
+>
 ><dl>
 >  <dt>MOA:</dt>
 >  <dd>Maîtrise d'ouvrage.</dd>
 >  <dd><em>Entité représentant le besoin client.</em></dd>
 ></dl>
 >
+> ---
+>
 ><dl>
 >  <dt>AMOA:</dt>
 >  <dd>Assistant à maîtrise d'ouvrage.</dd>
 >  <dd><em>Entité éventuellement mandaté par le client pour superviser la réalisation technique.</em></dd>
 ></dl>
+>
+> ---
 >
 ><dl>
 >  <dt>MOE:</dt>
@@ -177,6 +186,8 @@
 >  <dd><em>Organisation mise en place par une entreprise pour atteindre sa politique et ses objectifs qualité.</em></dd>
 ></dl>
 >
+> ---
+>
 >> Il se décine en **sept grands principes**:
 >>> 1. Orientation client
 >>>
@@ -194,6 +205,8 @@
 >>
 >> Un bon SMQ doit:
 >>> 
+>
+> ---
 >
 ><dl>
 >  <dt>PAQ:</dt>
