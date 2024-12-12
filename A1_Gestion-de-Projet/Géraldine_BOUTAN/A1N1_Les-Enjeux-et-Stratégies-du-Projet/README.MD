@@ -206,8 +206,10 @@
 ## E. SMQ
 ><dl>
 >  <dt>SMQ:</dt>
->  <dd>Système de Management de Qualité.</dd>
->  <dd><em>Organisation mise en place par une entreprise pour atteindre sa politique et ses objectifs qualité.</em></dd>
+>>  <dd>Système de Management de Qualité.</dd>
+>>
+>>  <dd><em>Organisation mise en place par une entreprise pour atteindre sa politique et ses objectifs qualité.</em></dd>
+>
 ></dl>
 >
 > ---
@@ -234,6 +236,8 @@
 >
 ><dl>
 >  <dt>PAQ:</dt>
->  <dd>Plan d'Assurance Qualité.</dd>
->  <dd><em>Standards de qualité mis en place au niveau du projet.</em></dd>
+>>  <dd>Plan d'Assurance Qualité.</dd>
+>>
+>>  <dd><em>Standards de qualité mis en place au niveau du projet.</em></dd>
+>
 ></dl>
