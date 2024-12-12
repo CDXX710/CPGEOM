@@ -4,7 +4,7 @@
 
 ### [🧪 [Markdown] Exercice QQQOPCC](EXO.MD)
 
-### [🧪 [PDF] TP Charte Projet]()
+### [🧪 [PDF] TP Charte Projet](A1N1_Ingenierie-et-Jalons.pdf)
 ---
 ### [↺ Retour](../README.MD)
 ---
