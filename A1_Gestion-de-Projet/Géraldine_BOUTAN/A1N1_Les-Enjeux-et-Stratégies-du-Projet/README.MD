@@ -442,7 +442,9 @@ ainsi les moyens d’atteindre les priorités qu’elle a elle-même définies.
 >> Le SMQ doit correspondre à la réalité de l’organisation de l’entreprise et non constituer
 un système factice, établi en théorie, dans le seul souci de répondre à l’exigence externe
 du client.
+>>
 >> ---
+>>
 >> Il se décine en **sept grands principes**:
 >>> #### 1. Orientation client
 >>>> L’objectif de n’importe quelle entreprise, quel que soit son domaine d’activité, est de satisfaire les attentes de sa clientèle en lui fournissant des produits et services adaptés à ses exigences.
