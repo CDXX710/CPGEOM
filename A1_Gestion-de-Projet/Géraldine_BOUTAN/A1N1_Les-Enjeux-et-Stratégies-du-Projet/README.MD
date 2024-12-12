@@ -44,8 +44,18 @@
 >
 >   ![Organigramme Classique Public](organigramme_classique_pub.png "Organigramme Classique Public")
 > </details>
-organigramme_classique_
+
 ## B. POURQUOI UN PROJET
+### DEFINITION D'UN PROJET SI
+> Un système d’information dans une entreprise comporte différents aspects:
+> - Fonctionnel
+> - Technique
+> Les SI sont gérés et programmés par différents acteurs à différents niveaux:
+> - Infrastructure
+> - Logicielle
+> - Sécurité
+> - Maintenance
+
 
 ### ENJEUX ET OBJECTIFS
 
