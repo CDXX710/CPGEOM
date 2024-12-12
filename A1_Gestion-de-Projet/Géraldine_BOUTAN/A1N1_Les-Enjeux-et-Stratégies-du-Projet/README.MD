@@ -193,6 +193,13 @@
 >>  <dd>Maîtrise d'œuvre.</dd>
 >>  <dd><em>Entité en charge de la partie technique.</em></dd>
 >></dl>
+>
+> #### MATRICE POUVOIR/INTERETS
+>
+> <details> 
+>   <summary><em>SPOILER</em></summary>
+>
+>   ![Organigramme](organigramme_entreprise_privee.png "Organigramme")
 
 ---
 
