@@ -1,4 +1,4 @@
-### [↳ Support PDF](Notions-Théoriques-et-Outils.pdf)
+### [↳ [PDF] Support de Cours](Notions-Théoriques-et-Outils.pdf)
 ---
 ### [↺ Retour](../README.MD)
 ---
