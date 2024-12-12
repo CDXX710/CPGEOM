@@ -83,7 +83,7 @@
 ><dl>
 >  <dt>SMQ:</dt>
 >  <dd>Système de Management de Qualité.</dd>
->  <dd>  Organisation mise en place par une entreprise pour atteindre sa politique et ses objectifs qualité.</dd>
+>  <dd><em>Organisation mise en place par une entreprise pour atteindre sa politique et ses objectifs qualité.</em></dd>
 ></dl>
 >
 >> Il se décine en **sept grands principes**:
@@ -107,5 +107,5 @@
 ><dl>
 >  <dt>PAQ:</dt>
 >  <dd>Plan d'Assurance Qualité.</dd>
->  <dd>  Standards de qualité mis en place au niveau du projet.</dd>
+>  <dd><em>Standards de qualité mis en place au niveau du projet.</em></dd>
 ></dl>
