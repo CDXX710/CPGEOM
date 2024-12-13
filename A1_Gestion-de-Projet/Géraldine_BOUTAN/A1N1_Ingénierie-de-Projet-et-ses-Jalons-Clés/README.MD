@@ -118,19 +118,6 @@ améliorations que cela va apporter.
 > ---
 >
 >## Cadrage
->> ### **QQQOPCC**:
->>>*Quand ? Qui ? Quoi ? Où ?  Pourquoi ? Comment ? Combien ?*
->>>> <details>
->>>> <summary><em>SPOILER</em></summary>
->>>>
->>>><br>
->>>>
->>>>![Exemple de QQQOPCC](qqqopcc-exemple.png "Exemple de QQQOPCC")
->>>> </details>
->> ---
->> ### **Gemba Walk**:
->>> *'Gemba' du japonais signifie 'le véritable endroit', 'là où se trouve la réalité'. D'où le concept qui consiste à observer et se rapprocher de la situation de terrain pour mieux en comprendre les besoins ou pistes d'améliorations.*
->>---
 >> ### La Charte du Projet
 >>><details> 
 >>>  <summary><h4><b>Définition des objectifs</b></h4></summary>
@@ -295,6 +282,20 @@ détaillé futur du projet.
 >>>>> - [ ] Les risques stratégiques sont identifiés et évalués.
 >>>>> - [ ] Le processus de gouvernance est défini et les instances ou comités concernés sont désignés.
 >>>>> - [ ] Les parties prenantes sont identifiées et les rôles et responsabilités sont définis et attribués à des personnes ou à des comités
+>>>---
+>>> ### **QQQOPCC**:
+>>>>*Quand ? Qui ? Quoi ? Où ?  Pourquoi ? Comment ? Combien ?*
+>>>>> <details>
+>>>>> <summary><em>SPOILER</em></summary>
+>>>>>
+>>>>><br>
+>>>>>
+>>>>>![Exemple de QQQOPCC](qqqopcc-exemple.png "Exemple de QQQOPCC")
+>>>>> </details>
+>>> ---
+>>> ### **Gemba Walk**:
+>>>> *'Gemba' du japonais signifie 'le véritable endroit', 'là où se trouve la réalité'. D'où le concept qui consiste à observer et se rapprocher de la situation de terrain pour mieux en comprendre les besoins ou pistes d'améliorations.*
+>>---
 >
 >---
 >
