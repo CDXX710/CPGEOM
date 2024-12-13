@@ -2,7 +2,7 @@
 
 ### [📝 [PDF] Trame Charte Projet](trame_charte_projet.pdf)
 
-### [🧪 [Markdown] Exercice QQQOPCC](EXO.MD)
+### [🧪 [h4down] Exercice QQQOPCC](EXO.MD)
 
 ### [🧪 [PDF] TP Charte Projet]()
 ---
@@ -56,7 +56,6 @@
 >
 >---
 >
-
 # B. GESTION DE PROJET
 >## Définition
 >> C’est un ensemble de moyens, d’activités et d’actions qui vont être mises en place au sein 
@@ -133,31 +132,66 @@ améliorations que cela va apporter.
 >>> *'Gemba' du japonais signifie 'le véritable endroit', 'là où se trouve la réalité'. D'où le concept qui consiste à observer et se rapprocher de la situation de terrain pour mieux en comprendre les besoins ou pistes d'améliorations.*
 >>---
 >> ### La Charte du Projet
->>> - #### <mark>Définition des objectifs</mark>
->>>> Défini les objectifs du projet et les critères de mesure de succès.
+>>><details> 
+>>>  <summary><h4><b>Définition des objectifs</b></h4></summary>
+>>> <br>
+>>>
+>>>> <li>Défini les objectifs du projet et les critères de mesure de succès.</li>
+>>></details>
+>>> <br>
+>>>
 >>> ---
->>> - #### <mark>Périmètre du projet</mark>
->>>> Description générale des inclusions et exclusions du projet.
+>>><details> 
+>>>  <summary><h4><b>Périmètre du projet</b></h4></summary>
+>>> <br>
+>>>
+>>>> <li>Description générale des inclusions et exclusions du projet.</li>
+>>>
+>>>> <li>Détaille également les caractéristiques du produit, service ou résultat à atteindre.</li> 
+>>></details>
+>>><br>
+>>>
+>>> ---
+>>><details> 
+>>>  <summary><h4><b>Jalons</b></h4></summary>
+>>> <br>
+>>>
+>>>> <li>Décrit les phases et étapes du projet ainsi que les points de vérification ou approbation.</li>
 >>>>
->>>> Détaille également les caractéristiques du produit, service ou résultat à atteindre. 
+>>>> <li>Indique également les contraintes en termes de délais à prendre en compte.</li> 
+>>></details>
+>>><br>
+>>>
 >>> ---
->>> - #### <mark>Jalons</mark>
->>>> Décrit les phases et étapes du projet ainsi que les points de vérification ou approbation.
+>>><details> 
+>>>  <summary><h4><b>Livrables</b></h4></summary>
+>>> <br>
+>>>
+>>>> <li>Définit les principaux produits, services ou résultats qui doivent être fourni dans le cadre du projet.</li>
 >>>>
->>>> Indique également les contraintes en termes de délais à prendre en compte.
->>> ---
->>> - #### <mark>Livrables</mark>
->>>> Définit les principaux produits, services ou résultats qui doivent être fourni dans le cadre du projet.
+>>>> <i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ne pas oublier les livrables internes requis au management du projet.</i>
 >>>>
->>>>> *Ne pas oublier les livrables internes requis au management du projet.*
+>>>> <li>Précise également les critères d'évaluation de la réussite et de la qualité des livrables.</li>
+>>></details>
+>>><br>
+>>>
+>>> ---
+>>><details> 
+>>>  <summary><h4><b>Budget et sources de financement</b></h4></summary>
+>>> <br>
+>>>
+>>>> Présentation du budget global approuvé pour le projet ainsi qu'une estimation des coûts en différentes ressources <i>(humaines, matérielles et financières)</i>.</li>
 >>>>
->>>> Précise également les critères d'évaluation de la réussite et de la qualité des livrables.
+>>>> <i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Indiquer les différentes sources de financement pour supporter le projet.</i> 
+>>></details>
+>>>
+>>> <br>
+>>>
 >>> ---
->>> - #### <mark>Budget et sources de financement</mark>
->>>> Présentation du budget global approuvé pour le projet ainsi qu'une estimation des coûts en différentes ressources *(humaines, matérielles et financières).*
->>>>> *Indiquer les différentes sources de financement pour supporter le projet.*
->>> ---
->>> - #### <mark>Risques</mark>
+>>><details> 
+>>>  <summary><h4><b>Risques</b></h4></summary>
+>>> <br>
+>>>
 >>>> #### Présentation
 >>>>> Présentation initiale des risques, notemment stratégiques.
 >>>>>
@@ -165,28 +199,30 @@ améliorations que cela va apporter.
 >>>>>
 >>>>> Détérminer la stratégie à adopter pour maîtriser chacun des risques, ainsi que la personne ou équipe en charge le cas échéant. 
 >>>>>
->>>>>> Les différents traitements possibles:
->>>>>>> - Eliminer le risque.
->>>>>>> - Atténuer le risque.
->>>>>>> - Transférer le risque.
->>>>>>> - Accepter le risque.
+>>>>> Les différents traitements possibles:
+>>>>>> - Eliminer le risque.
+>>>>>> - Atténuer le risque.
+>>>>>> - Transférer le risque.
+>>>>>> - Accepter le risque.
 >>>>---
 >>>> #### SWOT: *Strengths, Weaknesses, Opportunities and Threats*
 >>>>> Interne ou Externe, le SWOT ***ne peut pas*** être communiqué à tous les acteurs. 
->>>>>
+>>>>>>
 >>>>>> <details> 
 >>>>>>   <summary><em>SPOILER</em></summary>
 >>>>>>
 >>>>>>   ![Modèle de SWOT](exemple-swot.png "Modèle de SWOT")
 >>>>>>
 >>>>>> </details>
+>>>>
 >>>>---
+>>>>
 >>>> #### Notion de risques
 >>>>> Un risque, c’est:
 >>>>>>> - Un événement incertain 
 >>>>>>> - Dont la concrétisation aurait un effet négatif (ou positif) sur le projet
 >>>>>>
->>>>>> Effet négatif : l’événement est une «menace».
+>>>>>>  Effet négatif : l’événement est une «menace».
 >>>>>>
 >>>>>> Effet positif : l’événement est une «opportunité».
 >>>>>
@@ -205,54 +241,60 @@ améliorations que cela va apporter.
 >>>>> Identifier les risques
 >>>>>> - Quels événements incertains pourraient impacter mon projet ? (menaces et opportunités)
 >>>>>> - Quelles conséquences ? 
->>>>>>> → S’appuyer sur les « catégories » de risques pour faciliter leur identification
+>>>>>>
+>>>>>> → S’appuyer sur les « catégories » de risques pour faciliter leur identification
 >>>>>
 >>>>> Evaluer les risques
->>>>>> - Quelle probabilité ?
->>>>>> - Quelle gravité ?
->>>>>>> ![Calcul Criticité](criticite.png "Calcul Criticité")
+>>>>> - Quelle probabilité ?
+>>>>> - Quelle gravité ?
+>>>>> ![Calcul Criticité](criticite.png "Calcul Criticité")
 >>>>>
 >>>>> Trier et prioriser les risques
 >>>>>> - Trier les risques par criticité pour traiter les plus importants en premier
->>>
->>> ---
->>> - #### <mark>La Gouvernance</mark>
->>>> Décrire la façon avec laquelle le projet sera géré et définir les instances de gouvernance qui vont
-être impliquées dans le processus d’approbation. Autrement dit, expliquer le processus décisionnel et indiquer qui prend quelle décision.
+>>>></details>
+>>>><br>
 >>>>
->>>> Les parties prenantes sont donc mentionnées dans cette partie avec leur rôle
+>>>> ---
+>>>><details> 
+>>>>  <summary><h4><b>La Gouvernance</b></h4></summary>
+>>>> <br>
 >>>>
->>>> Par la même occasion, si ce n’est pas fait au début du document, il est possible d’exposer dans cette
-section qui est assigné comme chef de projet, quel est le niveau d’autorité dont il dispose.
+>>>>> Décrire la façon avec laquelle le projet sera géré et définir les instances de gouvernance qui vont être impliquées dans le processus d’approbation. Autrement dit, expliquer le processus décisionnel et indiquer qui prend quelle décision.
+>>>>>
+>>>>> Les parties prenantes sont donc mentionnées dans cette partie avec leur rôle
+>>>>>
+>>>>> Par la même occasion, si ce n’est pas fait au début du document, il est possible d’exposer dans cette section qui est assigné comme chef de projet, quel est le niveau d’autorité dont il dispose.
+>>>>>
+>>>>> Ceci pourrait inclure:
+>>>>>> - Est ce qu’il pourrait engager des dépenses ? Jusqu’à quelle limite.
+>>>>>> - Est ce qu’il a la capacité d’assembler une équipe ?
+>>>></details>
+>>>> <br>
 >>>>
->>>> Ceci pourrait inclure:
->>>>> - Est ce qu’il pourrait engager des dépenses ? Jusqu’à quelle limite.
->>>>> - Est ce qu’il a la capacité d’assembler une équipe ?
->>>
->>> ---
->>> #### La charte de projet est aussi le ***document de référence*** pour:
->>> - Valider les enjeux, l’opportunité à saisir ou le problème à traiter, les bénéfices, le contenu, et
+>>>> ---
+>>>> #### La charte de projet est aussi le ***document de référence*** pour:
+>>>>> - Valider les enjeux, l’opportunité à saisir ou le problème à traiter, les bénéfices, le contenu, et
 les livrables du projet.
->>> - Chaque étape du projet
->>> - Pour faire des arbitrages au sein de l’équipe, le cas échéant.
->>> ---
->>> #### A Retenir
->>>> La charte projet est le document qui permet de finaliser les objectifs et le périmètre d’un projet,
+>>>>> - Chaque étape du projet
+>>>>> - Pour faire des arbitrages au sein de l’équipe, le cas échéant.
+>>>> ---
+>>>> #### A Retenir
+>>>>> La charte projet est le document qui permet de finaliser les objectifs et le périmètre d’un projet,
 d’estimer le cout et la charge, d’identifier les risques et d’impliquer les parties prenantes et préciser
 leur rôle via la gouvernance.
->>>>
->>>> C’est le document de base qui va supporter tout le déploiement du projet et le découpage plus
+>>>>>
+>>>>> C’est le document de base qui va supporter tout le déploiement du projet et le découpage plus
 détaillé futur du projet.
->>>
->>> ---
->>> #### Checklist
->>>> - [ ] Des objectifs précis et mesurables ont été établis pour que les résultats du projet soient évalués.
->>>> - [ ] Le périmètre du projet est énoncé clairement, ce qui permet au lecteur de comprendre facilement les inclusions et les exclusions du projet.
->>>> - [ ] Les livrables sont répartis sur tout le cycle de vie du projet et des points de décisions sont prévues aussi.
->>>> - [ ] L’estimation des coûts et source de financement sont documentées.
->>>> - [ ] Les risques stratégiques sont identifiés et évalués.
->>>> - [ ] Le processus de gouvernance est défini et les instances ou comités concernés sont désignés.
->>>> - [ ] Les parties prenantes sont identifiées et les rôles et responsabilités sont définis et attribués à des personnes ou à des comités
+>>>>
+>>>> ---
+>>>> #### Checklist
+>>>>> - [ ] Des objectifs précis et mesurables ont été établis pour que les résultats du projet soient évalués.
+>>>>> - [ ] Le périmètre du projet est énoncé clairement, ce qui permet au lecteur de comprendre facilement les inclusions et les exclusions du projet.
+>>>>> - [ ] Les livrables sont répartis sur tout le cycle de vie du projet et des points de décisions sont prévues aussi.
+>>>>> - [ ] L’estimation des coûts et source de financement sont documentées.
+>>>>> - [ ] Les risques stratégiques sont identifiés et évalués.
+>>>>> - [ ] Le processus de gouvernance est défini et les instances ou comités concernés sont désignés.
+>>>>> - [ ] Les parties prenantes sont identifiées et les rôles et responsabilités sont définis et attribués à des personnes ou à des comités
 >
 >---
 >
