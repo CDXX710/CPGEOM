@@ -1,7 +1,11 @@
 {
     "git.allowNoVerifyCommit": true,
     "markdownlint.config": {
-      "MD024": {"siblings_only":true},
-      "MD033": {"allowed_elements": ["é","è","ô","î","details","summary","b","i","li","br","dl","dt","dd","em","h1","h2","h3","h4","h5","h6"]}
-  }
+      "MD001": false,
+      "MD024": true,
+      "MD033": {
+        "allowed_elements": ["é","è","ô","î","details","summary","b","i","li","br","dl","dt","dd","em","h1","h2","h3","h4","h5","h6"]},
+      "MD041": false,
+      "MD042": false
+      }
 }
