@@ -1,3 +1,10 @@
 {
-    "git.allowNoVerifyCommit": true
+    "git.allowNoVerifyCommit": true,
+    
+    
+    "markdownlint.config": {
+      "MD033": {
+        "allowed_elements": ["details","summary","b","i","li"," br"]
+      }
+    }
 }
