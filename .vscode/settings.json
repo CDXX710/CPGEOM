@@ -3,9 +3,12 @@
     
     
     "markdownlint.config": {
+      "MD001": true,
       "MD024": true,
       "MD033": {
-        "allowed_elements": ["details","summary","b","i","li","br","dl","dt","dd","em","h1","h2","h3","h4","h5","h6"]
-      }
-    }
+        "allowed_elements": ["details","summary","b","i","li","br","dl","dt","dd","em","h1","h2","h3","h4","h5","h6"]},
+      "MD046": true,
+      "MD041": true,
+      "MD042": true
+  }
 }
