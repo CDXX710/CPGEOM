@@ -1,0 +1,29 @@
+### [📝 [PDF] Support de Cours](#)
+
+---
+
+### [↺ Retour](../README.MD)
+
+---
+
+### [↺ Racine](../../../README.MD)
+
+---
+
+# Formation "Le Droit Informatique appliqué à la Gestion de Projet"
+
+<i>16 décembre 2024</i>
+
+---
+
+#### [➤ &nbsp; A.](README.MD#)
+
+#### [➤ &nbsp; B.](README.MD#)
+
+#### [➤ &nbsp; C.](README.MD#)
+
+#### [➤ &nbsp; D.](README.MD#)
+
+#### [➤ &nbsp; E.](README.MD#)
+
+---
