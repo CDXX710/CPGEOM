@@ -1,4 +1,4 @@
-### [📝 [PDF] Support de Cours](#)
+### [📝 [PDF] Support de Cours](https://supports.idgeo.fr/cpgeom/A0-CP24_infos_droits/co/CQP_B4U10S35.html)
 
 ---
 
