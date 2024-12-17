@@ -1,10 +1,18 @@
 ### [📝 [PDF] Support de Cours](A1N1_Ingenierie-et-Jalons.pdf)
 
-### [📝 [PDF] Trame Charte Projet](trame_charte_projet.pdf)
+### [📝 [PDF] Trame Charte Projet](charte-projet_exemple.pdf)
 
-### [🧪 [h4down] Exercice QQQOPCC](EXO.MD)
+### [📝 [DOCX] Trame Charte Projet](charte-projet_exemple.docx)
 
-### [🧪 [PDF] TP Charte Projet](#)
+### [📝 [XLSX] Trame Plan de Charge](plan-de-charge_exemple.xlsx)
+
+### [📝 [XLSX] Trame RACI](raci_exemple.xlsx)
+
+### [🧪 [h4down] Exercice QQQOPCC](exo.md)
+
+### [🧪 [PDF] TP Charte Projet](charte-projet_tp.pdf)
+
+### [🧪 [DOCX] TP Charte Projet](charte-projet_tp.docx)
 
 ---
 
