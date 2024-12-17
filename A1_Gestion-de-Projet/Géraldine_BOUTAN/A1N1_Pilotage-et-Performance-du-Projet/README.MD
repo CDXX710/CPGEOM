@@ -1,6 +1,6 @@
 ### [📝 [HTML] Support de Cours](A1N1_Pilotage-et-Performance-du-Projet.pdf)
 
-### [🧪 [ODS] WBS SDSI Montauban](WBS_SDSI-Montauban.ods)
+### [🧪 [PDF] WBS SDSI Montauban](WBS_SDSI-Montauban.pdf)
 
 ### [🧪 [Markdown] WBS SDSI Montauban](wbs_sdsi-montauban.md)
 
