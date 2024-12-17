@@ -1,18 +1,29 @@
 ### [📝 [PDF] Support de Cours](formationPriseEnMain.pdf)
+
 ---
+
 ### [↺ Retour](../README.MD)
+
 ---
+
 ### [↺ Racine](../../../README.MD)
+
 ---
+
 # Formation "Prise en main de l'outil informatique"
 
-*3 décembre 2024*
+_3 décembre 2024_
 
 ---
+
 #### [➤&nbsp;A. Clavier](Clavier/readme.md)
+
 #### [➤&nbsp;B. Windows](Windows/readme.md)
+
 #### [➤&nbsp;C. Linux](Linux/readme.md)
+
 #### [➤&nbsp;D. Introduction au concept de Base de Données](BD/readme.md)
+
 ---
 
 Ce cours a pour objectif d'homogénéiser votre niveau de maîtrise de l'outil informatique de base.

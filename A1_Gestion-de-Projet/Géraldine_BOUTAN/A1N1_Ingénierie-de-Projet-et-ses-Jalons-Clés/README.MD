@@ -92,8 +92,8 @@
 >
 > ## Timeline du projet
 >
-> > | Avant-Projet | Cadrage | Planification | Exécution et Surveillance | Clotûre |
-> > | --- | --- | --- | --- | --- |
+> > | Avant-Projet            | Cadrage                                                                                             | Planification                                                             | Exécution et Surveillance                                                                                                                                  | Clotûre                                                                                                               |
+> > | ----------------------- | --------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
 > > | Décision de faisabilité | <li>Définition du projet</li><li>Définition des objectifs/besoins</li><li>Signature du contrat</li> | <li>Temps</li><li>Coûts</li><li>Risques</li><li>Découpage des tâches</li> | <li>Coordination des ressources</li><li>Réalisation du périmètre</li><br><li>Vérification de la maîtrise des objectifs, mesure et actions correctives</li> | <li>Formalisation de la fin du projet avec le client</li><li>Réaffectation des ressources sur d’autres activités</li> |
 > >
 > > > <details>
