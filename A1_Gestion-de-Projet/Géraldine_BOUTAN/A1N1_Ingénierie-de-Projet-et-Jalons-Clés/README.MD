@@ -63,7 +63,7 @@
 >
 > ## Contraintes
 >
-> > ![Triangle des Contraintes](couts-qualite-delais.png "Triangle des Contraintes")
+> > ![Triangle des Contraintes](couts-qualite-delais_exemple.png "Triangle des Contraintes")
 >
 > ---
 >
@@ -74,11 +74,11 @@
 > >
 > > <br>
 > >
-> > ![Principales Causes d'Echecs d'un Projet](causes-echecs-projets.png "Principales Causes d'Echecs d'un Projet")
+> > ![Principales Causes d'Echecs d'un Projet](causes-echecs-projets_exemple.png "Principales Causes d'Echecs d'un Projet")
 > >
 > > <br>
 > >
-> > ![Compréhension du Projet](comprehension-projet.png "Compréhension du Projet")
+> > ![Compréhension du Projet](comprehension-projet_exemple.png "Compréhension du Projet")
 > >
 > > </details>
 >
@@ -109,7 +109,7 @@
 > > >
 > > > <br>
 > > >
-> > > ![Timeline d'un Projet](etapes-projet.png "Timeline d'un Projet")
+> > > ![Timeline d'un Projet](etapes-projet_exemple.png "Timeline d'un Projet")
 > > >
 > > > </details>
 >
@@ -250,7 +250,7 @@
 > > > > > > <details>
 > > > > > >   <summary><em>SPOILER</em></summary>
 > > > > > >
-> > > > > > ![Modèle de SWOT](exemple-swot.png "Modèle de SWOT")
+> > > > > > ![Modèle de SWOT](swot_exemple.png "Modèle de SWOT")
 > > > > > >
 > > > > > > </details>
 > > > >
@@ -295,7 +295,7 @@
 > > > > >
 > > > > > - Quelle probabilité ?
 > > > > > - Quelle gravité ?
-> > > > >   ![Calcul Criticité](criticite.png "Calcul Criticité")
+> > > > >   ![Calcul Criticité](criticite_exemple.png "Calcul Criticité")
 > > > > >
 > > > > > Trier et prioriser les risques
 > > > > >
@@ -363,7 +363,7 @@
 > > > > >
 > > > > > <br>
 > > > > >
-> > > > > ![Exemple de QQQOPCC](qqqopcc-exemple.png "Exemple de QQQOPCC")
+> > > > > ![Exemple de QQQOPCC](qqqopcc_exemple.png "Exemple de QQQOPCC")
 > > > > >
 > > > > > </details>
 > > >
