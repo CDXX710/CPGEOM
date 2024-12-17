@@ -388,3 +388,6 @@
 > ### Total Phase 3 : 45-80 heures
 
 ## Total global : 192-234 heures (28-35 jours)
+
+500 x 28 = 14000 €
+500 x 35 = 17500 €
