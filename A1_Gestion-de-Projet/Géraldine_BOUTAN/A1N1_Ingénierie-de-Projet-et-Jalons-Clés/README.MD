@@ -8,7 +8,7 @@
 
 ### [📝 [XLSX] Trame RACI](raci_exemple.xlsx)
 
-### [🧪 [h4down] Exercice QQQOPCC](exo.md)
+### [🧪 [Markdown] Exercice QQQOPCC](exo.md)
 
 ### [🧪 [PDF] TP Charte Projet](charte-projet_tp.pdf)
 
