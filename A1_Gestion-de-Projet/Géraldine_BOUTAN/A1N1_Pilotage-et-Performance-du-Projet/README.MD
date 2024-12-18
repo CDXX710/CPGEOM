@@ -18,7 +18,7 @@
 
 # Formation "Pilotage et Performance du Projet"
 
-`<i>`17 décembre 2024`</i>`
+<i>17 décembre 2024</i>
 
 ---
 
