@@ -12,7 +12,7 @@
 
 # Formation "Enjeux et Stratégies du Projet"
 
-_10/11 décembre 2024_
+<i>10/11 décembre 2024</i>
 
 ---
 
