@@ -771,5 +771,3 @@ _10/11 décembre 2024_
 > > #### - Est piloté grâce à la gouvernance et la mise en place d’indicateurs
 > >
 > > #### - Répond à des exigences qualité de l’entreprise adaptées dans un PAQ
-
-ttestetsetste
