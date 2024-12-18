@@ -59,7 +59,7 @@
 
 ## ORGANIGRAMMES
 
-> <details> 
+> <details>
 >   <summary><em>SPOILER</em></summary>
 >
 > ![Organigramme](organigramme_entreprise_privee.png "Organigramme")
@@ -181,27 +181,27 @@
 >
 > ### LES DIFFERENTS PARTIES
 >
-> > 1.  Clients internes
+> > 1. Clients internes
 > >
-> > 1.  Clients externes
+> > 1. Clients externes
 > >
-> > 1.  Commanditaires
+> > 1. Commanditaires
 > >
-> > 1.  Futurs utilisateurs
+> > 1. Futurs utilisateurs
 > >
-> > 1.  Décideurs de l’entreprise
+> > 1. Décideurs de l’entreprise
 > >
-> > 1.  DSI
+> > 1. DSI
 > >
-> > 1.  Fournisseurs
+> > 1. Fournisseurs
 > >
-> > 1.  Prestataires
+> > 1. Prestataires
 > >
-> > 1.  Partenaires
+> > 1. Partenaires
 > >
-> > 1.  Equipe projet
+> > 1. Equipe projet
 > >
-> > 1.  Financier
+> > 1. Financier
 >
 > ---
 >
@@ -231,7 +231,7 @@
 >
 > ### MATRICE POUVOIR/INTERETS
 >
-> > <details> 
+> > <details>
 > >   <summary><em>SPOILER</em></summary>
 > >
 > > ![Matrice Pouvoirs-Interêts](matrice-pouvoir-interets.png "Matrice Pouvoirs-Interêts")
@@ -302,7 +302,7 @@
 >
 > #### ETAPES
 >
-> > <details> 
+> > <details>
 > >   <summary><em>SPOILER</em></summary>
 > >
 > > ![Schéma d'Etapes](schema_etapes.png "Schéma d'Etapes")
@@ -339,13 +339,13 @@
 
 ## CONTEXTE
 
-> ### DEFINITION:
+> ### DEFINITION
 >
 > > La gouvernance de projet définit un mode de management et d’organisation. Elle permet d’identifier les rôles et les responsabilités de chaque partie prenante.
 >
 > ---
 >
-> ### OBJECTIFS:
+> ### OBJECTIFS
 >
 > > - assurer le bon déroulement des activités, leur suivi
 > > - faciliter la communication et la prise de décisions,
@@ -362,7 +362,7 @@
 
 ## RÔLES
 
-> ### La Maitrîse d'Ouvrage (MOA):
+> ### La Maitrîse d'Ouvrage (MOA)
 >
 > > C’est le sponsor, voire le propriétaire du projet. Dans une relation client-fournisseur, le MOA est le client.
 > >
@@ -382,7 +382,7 @@
 >
 > ---
 >
-> ### L'assistance à Maitrîse d'Ouvrage (AMOA):
+> ### L'assistance à Maitrîse d'Ouvrage (AMOA)
 >
 > > Nommé par la MOA pour agir par délégation afin de mener à bien le projet. Il est l’œil du MOA dans l’exécution du projet
 > >
@@ -430,7 +430,7 @@
 
 > ### EXEMPLE
 >
-> <details> 
+> <details>
 >   <summary><em>SPOILER</em></summary>
 >
 > ![Exemple de Gouvernance](gouvernance_classique.png "Exemple de Gouvernance")
@@ -595,7 +595,7 @@
 >
 > ### EXEMPLE
 >
-> <details> 
+> <details>
 >   <summary><em>SPOILER</em></summary>
 >
 > ![Exemple Taleau de Bord](tableau-bord_classique.jpg "Exemple Taleau de Bord")
@@ -756,7 +756,7 @@
 
 # G. A RETENIR
 
-> ### UN PROJET SI:
+> ### UN PROJET SI
 >
 > > #### - Répond à un besoin économique, humain ou industriel de l’entreprise
 > >
