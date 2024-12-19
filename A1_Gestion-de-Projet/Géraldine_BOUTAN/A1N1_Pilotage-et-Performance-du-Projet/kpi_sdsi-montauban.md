@@ -34,13 +34,13 @@ Voici une liste d'indicateurs de performance (KPIs) pour suivre le projet de mis
 
 ---
 
-## **4. Qualité des livrables**
+## **4. Qualité des livrables** ☑
 
 - **Description** : Évalue la conformité des livrables produits par rapport aux attentes du COPIL.
 
 - **Règle de calcul** : Score qualité = (Nombre de livrables validés / Nombre total de livrables soumis) × 100
 
-- **Représentation graphique** : Diagramme à barres illustrant le nombre de livrables validés versus non validés.
+- **Représentation graphique** : Diagramme en cercle comparant le nombre de livrables validés / invalidés.
 
 ---
 
@@ -54,7 +54,7 @@ Voici une liste d'indicateurs de performance (KPIs) pour suivre le projet de mis
 
 ---
 
-## **6. Respect du budget**
+## **6. Respect du budget** ☑
 
 - **Description** : Surveille la consommation des ressources financières par rapport au budget alloué.
 
