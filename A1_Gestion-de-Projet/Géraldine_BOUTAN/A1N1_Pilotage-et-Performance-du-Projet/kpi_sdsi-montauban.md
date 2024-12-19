@@ -4,23 +4,23 @@ Voici une liste d'indicateurs de performance (KPIs) pour suivre le projet de mis
 
 ---
 
-## **1. Taux d'avancement des livrables**
+## **1. Etat général du projet** ☑
 
-- **Description** : Mesure la proportion des livrables produits par rapport au nombre total prévu.
+- **Description** : Mesure l'état général du projet.
 
-- **Règle de calcul** : Taux d'avancement = (Nombre de livrables réalisés / Nombre total de livrables) × 100
+- **Règle de calcul** : Synthèse des autres KPIs.
 
-- **Représentation graphique** : Diagramme circulaire ou barre de progression montrant l'état actuel des livrables.
+- **Représentation graphique** : Etat général de satisfaction.
 
 ---
 
-## **2. Respect du calendrier**
+## **2. Taux d'avancement des réalisations par rapport au temps passé** ☑
 
-- **Description** : Évalue le respect des échéances pour chaque phase du projet (audit, diagnostic, élaboration du schéma).
+- **Description** : Mesure la proportion des livrables produits par rapport au nombre total prévu ainsi que le temps.
 
-- **Règle de calcul** :  % respect des échéances = (Nombre de tâches respectant les délais / Nombre total de tâches) × 100
+- **Règle de calcul** : Taux d'avancement = (Nombre de livrables réalisés / Nombre total de livrables) × 100
 
-- **Représentation graphique** : Diagramme de Gantt annoté pour visualiser les retards ou respect des délais.
+- **Représentation graphique** : Barre de progression pour les réalisations ainsi que le temps.
 
 ---
 
@@ -44,7 +44,7 @@ Voici une liste d'indicateurs de performance (KPIs) pour suivre le projet de mis
 
 ---
 
-## **5. Taux de couverture des besoins recensés**
+## **5. Taux de couverture des besoins recensés** ☑
 
 - **Description** : Suit l'intégration des besoins exprimés par les utilisateurs dans le SIG.
 
@@ -64,17 +64,17 @@ Voici une liste d'indicateurs de performance (KPIs) pour suivre le projet de mis
 
 ---
 
-## **7. Temps moyen de validation des livrables**
+## **7. Temps moyen de validation des livrables** ☑
 
 - **Description** : Mesure la rapidité avec laquelle les livrables sont validés par le COPIL.
 
 - **Règle de calcul** : Temps moyen = Somme des délais de validation (jours) / Nombre de livrables soumis
 
-- **Représentation graphique** : Graphique à barres illustrant le délai moyen par livrable.
+- **Représentation graphique** : Diagramme à barres illustrant le délai moyen par livrable.
 
 ---
 
-## **8. Indicateur de satisfaction des utilisateurs**
+## **8. Indicateur de satisfaction des utilisateurs** ☑
 
 - **Description** : Évalue la satisfaction des utilisateurs finaux du SIG à l'issue du projet.
 
