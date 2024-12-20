@@ -1,1 +1,6 @@
-# Et
+# Membres
+
+- Jonathan
+- Moussa
+- Aristide
+- Dylan
